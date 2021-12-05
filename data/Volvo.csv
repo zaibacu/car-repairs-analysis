@@ -1,0 +1,167 @@
+make,model,part,total_paid
+VOLVO,V60,Engine (Various Faults),3083.92
+VOLVO,V60,Electrical ,2067.28
+VOLVO,S80,Gearbox (Various Faults),1502.29
+VOLVO,XC90,Gearbox (Various Faults),1500.00
+VOLVO,V70,Turbocharger,1301.42
+VOLVO,XC60,Clutch (Various Faults),1118.40
+VOLVO,XC70,Gearbox (Various Faults),1084.00
+VOLVO,V40,Clutch (Various Faults),1062.16
+VOLVO,C30,Electrical ,1052.92
+VOLVO,V40,Clutch (Various Faults),1018.32
+VOLVO,V40,Dpf Filter,1013.00
+VOLVO,XC60,Engine (Various Faults),1007.00
+VOLVO,V70,Cylinder Head Gasket,882.14
+VOLVO,XC90,Differential,816.12
+VOLVO,XC90,Differential,800.00
+VOLVO,V40,Clutch (Various Faults),796.44
+VOLVO,V50,Flywheel ,789.98
+VOLVO,V60,Trim,789.02
+VOLVO,V40,Ecu (Other),767.94
+VOLVO,C70,Turbocharger,764.00
+VOLVO,V70,E.G.R Valve,763.50
+VOLVO,V50,Engine (Various Faults),750.00
+VOLVO,V70,Gearbox (Various Faults),739.62
+VOLVO,C30,Clutch (Various Faults),709.00
+VOLVO,XC60,Electrical ,683.70
+VOLVO,S60,Electrical ,680.90
+VOLVO,XC60,Differential,674.94
+VOLVO,V50,Turbocharger,652.43
+VOLVO,XC60,Oxygen (Lambda) Sensor,630.88
+VOLVO,C30,Clutch (Various Faults),589.18
+VOLVO,V50,Heater Fan Motor,586.40
+VOLVO,V60,Central Door Locking,579.84
+VOLVO,XC60,E.G.R Valve,575.40
+VOLVO,XC70,Hose/Pipe ,550.80
+VOLVO,V40,Clutch (Various Faults),529.40
+VOLVO,XC90,,509.28
+VOLVO,V50,Air Bag System,500.00
+VOLVO,V40,Starter Motor,491.32
+VOLVO,XC90,Steering Column,489.29
+VOLVO,V50,Oxygen (Lambda) Sensor,484.02
+VOLVO,XC90 4X4,Gearbox (Various Faults),472.49
+VOLVO,C30,Release Bearing,469.75
+VOLVO,XC90,Throttle Body,460.16
+VOLVO,S80,Cooling,459.48
+VOLVO,XC90,Fuel System,459.20
+VOLVO,XC90,Steering Pump,458.54
+VOLVO,V60,Engine (Various Faults),450.00
+VOLVO,S60,Fuel Injectors,441.33
+VOLVO,V40,Fuel System,441.30
+VOLVO,C30,Ecu (Other),438.98
+VOLVO,S60,Alternator,436.84
+VOLVO,S60,Multimedia/ Sat,436.32
+VOLVO,S80,Differential,434.00
+VOLVO,V70,Torque Converter,434.00
+VOLVO,V60,Fuel Injectors,431.97
+VOLVO,C30,Ecu (Other),431.24
+VOLVO,V50,Alternator,415.99
+VOLVO,C30,Air Con (Various Faults),413.40
+VOLVO,XC70,E.G.R Valve,400.00
+VOLVO,V50,E.G.R Valve,399.50
+VOLVO,XC60,Electrical ,398.40
+VOLVO,C30,Electrical ,388.40
+VOLVO,XC90,Fuel System,388.00
+VOLVO,XC60,Oxygen (Lambda) Sensor,386.88
+VOLVO,C30,Air Con (Various Faults),384.72
+VOLVO,XC90,Central Door Locking,381.67
+VOLVO,XC90,Central Door Locking,379.32
+VOLVO,S40,Air Con (Various Faults),374.72
+VOLVO,V40,Fuel Injectors,373.80
+VOLVO,XC60,Central Door Locking,371.60
+VOLVO,XC60,Electrical ,362.28
+VOLVO,XC90,Central Door Locking,350.20
+VOLVO,V50,Alternator,350.00
+VOLVO,V60,Central Door Locking,340.46
+VOLVO,C30,Alternator,338.59
+VOLVO,V50,Fuel Injectors,336.00
+VOLVO,V50,Fuel System,333.00
+VOLVO,V40,Clutch (Various Faults),332.68
+VOLVO,XC90,Electrical ,330.20
+VOLVO,V40,Electrical ,327.60
+VOLVO,V50,Alternator,326.00
+VOLVO,S60,Heater Fan Motor,322.62
+VOLVO,XC60,Ecu (Other),320.93
+VOLVO,V70,Heater Matrix,319.59
+VOLVO,S60,Fuel System,306.18
+VOLVO,V50,Suspension (Various Faults),300.00
+VOLVO,XC60,Window Glass ,300.00
+VOLVO,C30,Fuel Injectors,292.49
+VOLVO,XC60,Engine (Various Faults),288.00
+VOLVO,S40,Air Con (Various Faults),278.84
+VOLVO,C30,Clutch (Various Faults),261.99
+VOLVO,V40,Central Door Locking,252.60
+VOLVO,S40,Alternator,252.44
+VOLVO,S60,Dpf Filter,250.80
+VOLVO,S60,Central Door Locking,249.00
+VOLVO,V70,Dpf Filter,245.50
+VOLVO,XC90,Wheel Bearing,244.44
+VOLVO,V60,Other,240.80
+VOLVO,V50,Dpf Filter,239.00
+VOLVO,V40,Sensors,235.65
+VOLVO,C30,Starter Motor,233.52
+VOLVO,S40,Air Con (Various Faults),228.50
+VOLVO,V50,Alternator,228.50
+VOLVO,C30,Alternator,225.36
+VOLVO,C30,Alternator,225.36
+VOLVO,XC70,Spring (Suspension),221.39
+VOLVO,XC60,Radiator,219.62
+VOLVO,XC90,Wheel Bearing,217.74
+VOLVO,S40,Central Door Locking,217.20
+VOLVO,XC60,Radiator,214.72
+VOLVO,XC60,Steering Rack,210.26
+VOLVO,V70,Sensors,209.04
+VOLVO,V40,Central Door Locking,206.80
+VOLVO,S40,Air Con (Various Faults),206.52
+VOLVO,V50,Clutch (Various Faults),203.39
+VOLVO,XC60,Shock Absorber,202.80
+VOLVO,V50,Starter Motor,200.51
+VOLVO,C70,Fuel System,200.00
+VOLVO,C30,Alternator,200.00
+VOLVO,V40,Oxygen (Lambda) Sensor,198.94
+VOLVO,XC60,Oil Leaks,192.30
+VOLVO,C30,Wheel Bearing,191.32
+VOLVO,XC60,Wheel Bearing,184.24
+VOLVO,C30,Alternator,175.38
+VOLVO,S60,Engine (Various Faults),172.80
+VOLVO,XC90,Steering Rack,167.68
+VOLVO,C70,Spring (Suspension),159.66
+VOLVO,XC90,Seat Catch,155.40
+VOLVO,XC60,Engine (Various Faults),155.08
+VOLVO,V50,Spring (Suspension),152.69
+VOLVO,XC60,Radiator,150.43
+VOLVO,C30,Starter Motor,150.08
+VOLVO,V70,Electrical ,150.00
+VOLVO,C30,Clutch (Various Faults),149.36
+VOLVO,XC60,Water Pump,141.54
+VOLVO,XC60,Abs (Various Faults),139.80
+VOLVO,S40,Starter Motor,138.18
+VOLVO,V70,Central Door Locking,135.00
+VOLVO,XC60,Abs (Various Faults),134.76
+VOLVO,XC60,Spring (Suspension),122.60
+VOLVO,C30,Fuel System,120.00
+VOLVO,C70,Wheel Bearing,119.56
+VOLVO,C30,Fuel System,117.61
+VOLVO,V50,Wheel Bearing,105.28
+VOLVO,XC60,Suspension (Various Faults),104.99
+VOLVO,V50,Suspension (Various Faults),99.06
+VOLVO,XC90,,97.96
+VOLVO,XC60,AA RECOVERY,85.68
+VOLVO,C30,,85.68
+VOLVO,V50,,85.68
+VOLVO,V60,Air Con (Various Faults),84.00
+VOLVO,V50,Flywheel ,84.00
+VOLVO,S40,Gearbox (Various Faults),84.00
+VOLVO,XC90,Differential,84.00
+VOLVO,S40,Clutch (Various Faults),84.00
+VOLVO,C30,Flywheel ,84.00
+VOLVO,XC60,Engine (Various Faults),84.00
+VOLVO,V40,Engine (Various Faults),84.00
+VOLVO,XC70,Clutch (Various Faults),84.00
+VOLVO,V50,Gearbox (Various Faults),84.00
+VOLVO,V50,Engine (Various Faults),84.00
+VOLVO,C70,Engine (Various Faults),84.00
+VOLVO,XC90,Differential,84.00
+VOLVO,V50,Spring (Suspension),79.61
+VOLVO,V50,Electrical ,44.94
+VOLVO,C30,Alternator,23.55

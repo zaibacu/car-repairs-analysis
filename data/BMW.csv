@@ -1,0 +1,1006 @@
+make,model,part,total_paid
+BMW,5 SERIES,Engine (Various Faults),8934.26
+BMW,5 SERIES,Gearbox (Various Faults),8930.94
+BMW,X5,Gearbox (Various Faults),8917.48
+BMW,1 SERIES,Engine (Various Faults),8903.94
+BMW,X6,Engine (Various Faults),8868.88
+BMW,3 SERIES,Engine (Various Faults),8824.12
+BMW,5 SERIES,Engine (Various Faults),8560.92
+BMW,1 SERIES,Engine (Various Faults),8527.96
+BMW,3 SERIES,Engine (Various Faults),8522.20
+BMW,3 SERIES,Engine (Various Faults),8459.08
+BMW,X1 4X4,Engine (Various Faults),5084.00
+BMW,3 SERIES,Fuel Injectors,5084.00
+BMW,I3,Engine (Various Faults),5083.99
+BMW,6 SERIES,Engine (Various Faults),4828.64
+BMW,7 SERIES,Suspension (Various Faults),4781.14
+BMW,X3,Engine (Various Faults),4678.52
+BMW,3 SERIES,Gearbox (Various Faults),3788.46
+BMW,7 SERIES,Suspension (Various Faults),3685.25
+BMW,X5,Gearbox (Various Faults),3518.06
+BMW,X1,Gearbox (Various Faults),3392.30
+BMW,3 SERIES,Gearbox (Various Faults),3378.00
+BMW,X5,Transfer Box,3191.37
+BMW,3 SERIES,,3133.76
+BMW,1 SERIES,Engine (Various Faults),3084.00
+BMW,M4,Steering Rack,2859.48
+BMW,1 SERIES,Brakes (Various Faults),2835.55
+BMW,X5,Differential,2773.81
+BMW,5 SERIES,Abs Accumulator,2648.40
+BMW,1 SERIES,Abs (Various Faults),2511.42
+BMW,4 SERIES,Steering Rack,2485.18
+BMW,5 SERIES,Engine (Various Faults),2361.60
+BMW,X5,Brakes (Various Faults),2251.82
+BMW,3 SERIES,Charging Unit (Ev),2167.37
+BMW,3 SERIES,Gearbox (Various Faults),2084.00
+BMW,1 SERIES,Engine Oil Pump,2084.00
+BMW,1 SERIES,Engine (Various Faults),2074.32
+BMW,3 SERIES,CHARGING UNIT (EV),2017.51
+BMW,3 SERIES,Multimedia,2000.00
+BMW,X5,Turbocharger,1891.60
+BMW,5 SERIES,Flywheel,1863.49
+BMW,I3,Water Pump,1858.34
+BMW,M4,Fuel System,1848.71
+BMW,5 SERIES,Fuel System,1820.00
+BMW,1 SERIES,Camshaft Sensor,1727.75
+BMW,M4,,1726.92
+BMW,M5,Ecu Engine,1726.25
+BMW,5 SERIES,Differential,1723.68
+BMW,1 SERIES,Engine (Various Faults),1710.30
+BMW,X5,Gearbox (Various Faults),1709.70
+BMW,3 SERIES,Ecu Engine,1684.42
+BMW,1 SERIES,Ecu Engine,1652.16
+BMW,1 SERIES,Engine (Various Faults),1639.20
+BMW,5 SERIES,Gearbox (Various Faults),1632.50
+BMW,X3,Multimedia,1601.82
+BMW,5 SERIES,Engine (Various Faults),1584.00
+BMW,1 SERIES,Alternator,1519.38
+BMW,5 SERIES,Suspension (Various Faults),1514.11
+BMW,3 SERIES,Vanos Unit,1496.77
+BMW,3 SERIES,Catalyst (Exhaust),1484.00
+BMW,3 SERIES,Electrical ,1466.00
+BMW,1 SERIES,Cylinder Head Gasket,1452.00
+BMW,1 SERIES,Ecu Engine,1447.74
+BMW,Z4M,Steering Rack,1447.39
+BMW,3 SERIES,Timing Chain,1446.89
+BMW,4 SERIES,Amplifier,1441.14
+BMW,4 SERIES,Multimedia/ Sat,1438.46
+BMW,X5,Nox Sensor(Nitrogen Oxide),1405.59
+BMW,X1 4X4,Differential,1391.80
+BMW,I3,Ecu (Other),1389.76
+BMW,M5,Electrical ,1385.92
+BMW,6 SERIES,Engine (Various Faults),1374.01
+BMW,1 SERIES,Engine (Various Faults),1365.77
+BMW,3 SERIES,Multimedia,1356.00
+BMW,3 SERIES,Ecu Engine,1345.01
+BMW,7 SERIES,Multimedia/ Sat,1344.20
+BMW,X6,Gearbox (Various Faults),1334.00
+BMW,5 SERIES,Headlamp/ Fog Lamp Unit,1300.31
+BMW,3 SERIES,Gearbox (Various Faults),1294.20
+BMW,3 SERIES,Differential,1273.12
+BMW,X5,Suspension (Various Faults),1268.79
+BMW,X5,Spring (Suspension),1266.50
+BMW,I3,Air Con (Various Faults),1258.86
+BMW,M3,Throttle Body,1257.61
+BMW,X6,Suspension Pump,1255.62
+BMW,I3,Electrical ,1238.51
+BMW,1 SERIES,Gearbox (Various Faults),1224.00
+BMW,3 SERIES,Multimedia,1206.00
+BMW,3 SERIES,Gearbox (Various Faults),1202.00
+BMW,3 SERIES,Clutch (Various Faults),1184.00
+BMW,5 SERIES,Suspension Pump,1177.62
+BMW,I3,Air Con (Various Faults),1165.25
+BMW,3 SERIES,,1162.55
+BMW,X1 4X4,Gearbox (Various Faults),1134.94
+BMW,3 SERIES,Fuel Lift Pump,1132.27
+BMW,3 SERIES,Electrical,1118.27
+BMW,5 SERIES,Electrical,1111.07
+BMW,X5,Suspension (Various Faults),1091.20
+BMW,I3,Gearbox (Various Faults),1085.76
+BMW,3 SERIES,Clutch (Various Faults),1084.00
+BMW,1 SERIES,Turbocharger,1084.00
+BMW,3 SERIES,Gearbox (Various Faults),1080.00
+BMW,4 SERIES,Differential,1078.70
+BMW,X5,Steering Rack,1070.28
+BMW,3 SERIES,Electrical ,1069.87
+BMW,2 SERIES,Gearbox (Various Faults),1066.76
+BMW,I8,Ecu (Other),1066.68
+BMW,I3,Electrical ,1052.70
+BMW,X5,Suspension (Various Faults),1026.54
+BMW,X5,Sensors,1023.02
+BMW,1 SERIES,Clutch (Various Faults),1014.26
+BMW,I3,Electrical ,1008.65
+BMW,5 SERIES,Suspension Pump,1008.48
+BMW,M3,Throttle Body,1005.48
+BMW,M3,Throttle Actuator,1001.50
+BMW,X5,Drive Shaft,1000.00
+BMW,3 SERIES,Fuel System,1000.00
+BMW,3 SERIES,Gearbox (Various Faults),1000.00
+BMW,X3,Differential,1000.00
+BMW,3 SERIES,Vanos Unit,996.71
+BMW,1 SERIES,Drive Shaft,996.07
+BMW,I3,Air Con (Various Faults),991.36
+BMW,1 SERIES,Turbocharger,984.91
+BMW,X3,Gearbox (Various Faults),971.78
+BMW,I3,Air Bag System,970.27
+BMW,M5,Electrical,957.28
+BMW,X4,Gearbox (Various Faults),956.50
+BMW,5 SERIES,Steering Rack,954.00
+BMW,M3,Camshaft Sensor,951.29
+BMW,1 SERIES,Electrical ,948.75
+BMW,3 SERIES,Steering Rack,946.50
+BMW,1 SERIES,Fuel Lift Pump,943.91
+BMW,3 SERIES,Multimedia,935.09
+BMW,2 SERIES,Engine (Various Faults),934.39
+BMW,3 SERIES,Brakes (Various Faults),926.98
+BMW,I3,Air Bag System,924.01
+BMW,3 SERIES,Radiator,923.58
+BMW,X3,Differential,919.86
+BMW,X6,Sensors,915.50
+BMW,M3,Steering Column,913.13
+BMW,I3,Air Bag System,906.21
+BMW,1 SERIES,Air Con (Various Faults),906.12
+BMW,1 SERIES,Engine (Various Faults),904.65
+BMW,3 SERIES,Fuel System (Various Faults),901.91
+BMW,5 SERIES,Turbocharger,901.50
+BMW,1 SERIES,Gearbox (Various Faults),894.00
+BMW,X6,Air Con (Various Faults),893.44
+BMW,M4,Brakes (Various Faults),888.04
+BMW,5 SERIES,Engine (Various Faults),884.00
+BMW,3 SERIES,Differential,880.80
+BMW,X4,Brakes,879.20
+BMW,3 SERIES,Fuel Injection Pump,872.22
+BMW,3 SERIES,Steering Rack,865.00
+BMW,I3,Air Bag System,863.39
+BMW,X5,Electrical,862.21
+BMW,1 SERIES,Fuel System,861.50
+BMW,3 SERIES,Turbocharger,850.00
+BMW,1 SERIES,Inlet Manifold,845.21
+BMW,I3,Air Con (Various Faults),844.33
+BMW,3 SERIES,Suspension (Various Faults),840.14
+BMW,3 SERIES,Steering Rack,837.50
+BMW,1 SERIES,Engine (Various Faults),834.00
+BMW,1 SERIES,Clutch (Various Faults),829.88
+BMW,7 SERIES,Oxygen (Lambda) Sensor,829.20
+BMW,1 SERIES,Gearbox (Various Faults),825.00
+BMW,X5,Shock Absorber,824.01
+BMW,X5,Prop Shaft,821.02
+BMW,1 SERIES,Electrical ,820.26
+BMW,3 SERIES,Fuel System,816.02
+BMW,3 SERIES,,810.46
+BMW,3 SERIES,,810.46
+BMW,5 SERIES,Spring (Suspension),809.41
+BMW,I3,Fuel System,805.27
+BMW,3 SERIES,Fuel Injectors,793.10
+BMW,3 SERIES,Gearbox (Various Faults),789.00
+BMW,7 SERIES,Turbocharger,785.80
+BMW,1 SERIES,Engine (Various Faults),784.00
+BMW,5 SERIES,Intercooler,778.60
+BMW,1 SERIES,Fuel System,776.26
+BMW,X3,Ecu (Other),772.73
+BMW,2 SERIES,E.G.R Valve,770.77
+BMW,M5,Engine (Various Faults),766.66
+BMW,5 SERIES,Electrical,765.90
+BMW,I3,Air Con (Various Faults),759.98
+BMW,5 SERIES,Indicator Stalk Switch,756.93
+BMW,M3,Air Con (Various Faults),755.00
+BMW,3 SERIES,Fuel System,753.01
+BMW,1 SERIES,Engine (Various Faults),750.00
+BMW,1 SERIES,Engine (Various Faults),750.00
+BMW,X5,Oil Leaks,750.00
+BMW,X5,Oil Leaks,750.00
+BMW,1 SERIES,Air Con (Various Faults),745.56
+BMW,2 SERIES,Air Con (Various Faults),742.68
+BMW,Z4,Engine (Various Faults),741.63
+BMW,I3,Electrical ,740.19
+BMW,M3,Oil Cooler-,737.61
+BMW,4 SERIES,Alternator,736.59
+BMW,1 SERIES,Engine (Various Faults),734.00
+BMW,5 SERIES,Suspension (Various Faults),731.92
+BMW,5 SERIES,Turbocharger,730.80
+BMW,X5,Suspension (Various Faults),730.39
+BMW,1 SERIES,Engine (Various Faults),722.26
+BMW,3 SERIES,Flywheel ,721.72
+BMW,3 SERIES,Gearbox (Various Faults),718.88
+BMW,6 SERIES,Door Handle (Electronic),717.54
+BMW,5 SERIES,Sensors,716.12
+BMW,3 SERIES,Water Pump,710.01
+BMW,4 SERIES,Heater Fan Motor,709.79
+BMW,5 SERIES,Fuel System (Various Faults),708.58
+BMW,1 SERIES,Fuel Injectors,700.27
+BMW,5 SERIES,,700.00
+BMW,3 SERIES,Water Pump,699.99
+BMW,Z4,Radiator,695.47
+BMW,X4,E.G.R Valve,695.42
+BMW,I3,Air Con (Various Faults),690.02
+BMW,1 SERIES,Ecu Engine,689.00
+BMW,1 SERIES,Timing Chain,687.89
+BMW,1 SERIES,Flywheel ,684.00
+BMW,X3,Engine Oil Pump,684.00
+BMW,4 SERIES,E.G.R Valve,683.92
+BMW,1 SERIES,Cylinder Head Gasket,682.80
+BMW,X3,E.G.R Valve,682.50
+BMW,5 SERIES,E.G.R Valve,681.29
+BMW,3 SERIES,Flywheel,676.64
+BMW,I3,Air Con (Various Faults),676.55
+BMW,1 SERIES,Fuel System,673.81
+BMW,3 SERIES,Fuel Injectors,670.66
+BMW,3 SERIES,Camshaft Belt,670.11
+BMW,2 SERIES,Oxygen (Lambda) Sensor,668.27
+BMW,1 SERIES,Electrical,657.91
+BMW,3 SERIES,Heater Matrix,657.18
+BMW,X5,Electrical ,657.00
+BMW,X1 4X4,Indicator Stalk Switch,656.77
+BMW,3 SERIES,Gearbox (Various Faults),654.84
+BMW,5 SERIES,Crankshaft Pulley,651.54
+BMW,3 SERIES,Engine Oil Pump,650.00
+BMW,5 SERIES,Fuel Injectors,650.00
+BMW,X5,Fuel Injectors,643.00
+BMW,I3,Electrical ,642.11
+BMW,3 SERIES,Engine (Various Faults),634.00
+BMW,X1,E.G.R Cooler,630.49
+BMW,1 SERIES,Steering Rack,628.60
+BMW,X4,Electrical ,627.36
+BMW,1 SERIES,Electrical,625.49
+BMW,2 SERIES,E.G.R Valve,623.76
+BMW,M3,Brakes (Various Faults),622.93
+BMW,1 SERIES,Clutch (Various Faults),621.46
+BMW,M3,Steering Rack,621.00
+BMW,1 SERIES,Water Pump,618.24
+BMW,Z4,Engine Oil Pump,616.56
+BMW,1 SERIES,E.G.R Valve,612.54
+BMW,1 SERIES,Fuel System,609.86
+BMW,6 SERIES,Multimedia,607.14
+BMW,5 SERIES,Oil Leaks,605.85
+BMW,3 SERIES,Ignition Coil,600.00
+BMW,1 SERIES,Engine (Various Faults),600.00
+BMW,1 SERIES,Fuel Injectors,598.20
+BMW,1 SERIES,E.G.R Valve,596.60
+BMW,1 SERIES,Fuel Injectors,596.00
+BMW,M4,Brakes (Various Faults),594.47
+BMW,X5,Nox Sensor,594.00
+BMW,3 SERIES,,593.78
+BMW,M6,Fuel System,589.75
+BMW,X3,Differential,586.26
+BMW,1 SERIES,Engine (Various Faults),584.00
+BMW,3 SERIES,Water Pump,584.00
+BMW,3 SERIES,Gearbox (Various Faults),584.00
+BMW,3 SERIES,Gearbox (Various Faults),584.00
+BMW,X1,Gearbox (Various Faults),584.00
+BMW,1 SERIES,Flywheel ,584.00
+BMW,3 SERIES,Gearbox (Various Faults),584.00
+BMW,X3,Gearbox (Various Faults),584.00
+BMW,X3,Electrical ,580.70
+BMW,X3,E.G.R Valve,579.79
+BMW,7 SERIES,Ecu (Other),578.45
+BMW,3 SERIES,Starter Motor,577.94
+BMW,5 SERIES,Suspension (Various Faults),574.67
+BMW,3 SERIES,Differential,573.20
+BMW,6 SERIES,Electrical,570.78
+BMW,5 SERIES,Suspension (Various Faults),570.75
+BMW,6 SERIES,Fuel System (Various Faults),570.67
+BMW,6 SERIES,Steering Column,569.00
+BMW,4 SERIES,Suspension (Various Faults),566.28
+BMW,3 SERIES,Air Con (Various Faults),565.89
+BMW,3 SERIES,Electrical ,563.38
+BMW,1 SERIES,Fuel System,563.04
+BMW,X5,Aalternator,559.20
+BMW,1 SERIES,Electrical,558.04
+BMW,1 SERIES,Water Pump,555.01
+BMW,X5,Wiper Motor,554.77
+BMW,1 SERIES,Clutch (Various Faults),554.51
+BMW,3 SERIES,TURBOCHARGER,553.80
+BMW,6 SERIES,Oil Leaks,552.37
+BMW,X5 M,Spring (Suspension),552.23
+BMW,4 SERIES,Alternator,551.40
+BMW,X6,Suspension (Various Faults),550.36
+BMW,Z4,Central Door Locking,550.14
+BMW,2 SERIES,Window Regulator,550.00
+BMW,6 SERIES,Fuel System,548.33
+BMW,3 SERIES,Oxygen (Lambda) Sensor,545.89
+BMW,3 SERIES,Fuel Injectors,545.75
+BMW,5 SERIES,Brakes,540.01
+BMW,5 SERIES,Fuel System,539.20
+BMW,1 SERIES,Clutch (Various Faults),538.52
+BMW,3 SERIES,Steering Rack,537.98
+BMW,1 SERIES,Sensors,534.35
+BMW,I3,Water Pump,533.70
+BMW,M3,Spring (Suspension),532.06
+BMW,X1,Electrical ,529.90
+BMW,5 SERIES,Suspension Pump,529.00
+BMW,3 SERIES,Fuel Injectors,527.81
+BMW,1 SERIES,Engine (Various Faults),523.99
+BMW,3 SERIES,Fuel System,521.00
+BMW,6 SERIES,Alternator,520.48
+BMW,3 SERIES,Water Pump,517.46
+BMW,I3,Fuel System (Various Faults),516.18
+BMW,1 SERIES,Fuel System,515.00
+BMW,4 SERIES,Alternator,513.60
+BMW,5 SERIES,Heater Fan Motor,513.01
+BMW,1 SERIES,Sensors,511.50
+BMW,7 SERIES,Thermostat,509.90
+BMW,1 SERIES,Alternator,505.22
+BMW,1 SERIES,Clutch (Various Faults),503.29
+BMW,3 SERIES,E.G.R Valve,502.78
+BMW,1 SERIES,Ecu (Other),501.08
+BMW,3 SERIES,Oxygen (Lambda) Sensor,500.00
+BMW,3 SERIES,Drive Shaft,500.00
+BMW,1 SERIES,Nox Sensor,500.00
+BMW,3 SERIES,Engine (Various Faults),500.00
+BMW,3 SERIES,Nox Sensor,500.00
+BMW,3 SERIES,Fuel Injectors,500.00
+BMW,3 SERIES,Camshaft Belt,500.00
+BMW,1 SERIES,Engine (Various Faults),500.00
+BMW,3 SERIES,Catalyst (Exhaust),500.00
+BMW,3 SERIES,Engine (Various Faults),500.00
+BMW,3 SERIES,Brakes,499.46
+BMW,1 SERIES,Differential,498.25
+BMW,M4,Electrical,498.22
+BMW,3 SERIES,Gearbox (Various Faults),496.44
+BMW,3 SERIES,Fuel Injectors,494.95
+BMW,3 SERIES,Body Control Module ,493.25
+BMW,3 SERIES,Lambda Sensor (Emissions),493.18
+BMW,X5,Drive Shaft,493.03
+BMW,1 SERIES,Cooling,492.35
+BMW,X3,Fuel Injectors,492.00
+BMW,X1,,491.29
+BMW,1 SERIES,Starter Motor,487.00
+BMW,3 SERIES,Alternator,486.88
+BMW,3 SERIES,Ecu (Other),486.25
+BMW,1 SERIES,Steering Column,486.02
+BMW,1 SERIES,Flywheel ,484.86
+BMW,1 SERIES,Gearbox (Various Faults),484.00
+BMW,X3,Clutch (Various Faults),484.00
+BMW,M3,Alternator,482.30
+BMW,5 SERIES,Suspension Pump,481.00
+BMW,5 SERIES,Heater Fan Motor,480.40
+BMW,1 SERIES,E.G.R Valve,479.49
+BMW,3 SERIES,Fuel System,477.65
+BMW,1 SERIES,Oxygen (Lambda) Sensor,477.64
+BMW,5 SERIES,Electrical ,477.50
+BMW,3 SERIES,Track Rod Ends,476.16
+BMW,3 SERIES,Abs (Various Faults),474.23
+BMW,3 SERIES,Radiator,472.76
+BMW,1 SERIES,Fuel Injection Pump,472.33
+BMW,5 SERIES,Suspension (Various Faults),471.64
+BMW,3 SERIES,Fuel System (Various Faults),470.86
+BMW,X5,E.G.R Valve,467.40
+BMW,5 SERIES,Fuel System,466.36
+BMW,3 SERIES,Ecu (Other),465.38
+BMW,X1 4X4,Sensors,461.96
+BMW,1 SERIES,Electrical ,461.92
+BMW,5 SERIES,Alternator,461.23
+BMW,5 SERIES,E.G.R Valve,459.23
+BMW,3 SERIES,Electrical,455.08
+BMW,3 SERIES,E.G.R Valve,450.00
+BMW,M5,Engine (Various Faults),449.54
+BMW,6 SERIES,Door Handle (Electronic),447.82
+BMW,1 SERIES,Air Flow Meter,447.48
+BMW,5 SERIES,Electrical,446.87
+BMW,X5,Ecu (Other),445.47
+BMW,1 SERIES,Window Regulator,444.79
+BMW,I3,Oxygen (Lambda) Sensor,444.32
+BMW,1 SERIES,Water Pump,444.00
+BMW,3 SERIES,Washer Pump,442.24
+BMW,3 SERIES,Water Pump,442.04
+BMW,X5,Alternator,441.99
+BMW,5 SERIES,Suspension (Various Faults),441.36
+BMW,M3,Electrical ,441.10
+BMW,3 SERIES,Air Flow Meter,440.93
+BMW,5 SERIES,Electrical ,440.10
+BMW,6 SERIES,Brakes (Various Faults),439.15
+BMW,1 SERIES,Timing Chain,436.00
+BMW,6 SERIES,Engine (Various Faults),432.93
+BMW,3 SERIES,Abs Pump,431.30
+BMW,5 SERIES,E.G.R Valve,430.76
+BMW,5 SERIES,Electrical ,429.25
+BMW,1 SERIES,Oxygen (Lambda) Sensor,428.68
+BMW,3 SERIES,Brakes (Various Faults),428.08
+BMW,1 SERIES,Fuel System,427.00
+BMW,5 SERIES,Suspension (Various Faults),425.08
+BMW,1 SERIES,Turbocharger,424.50
+BMW,1 SERIES,Vanos Unit,424.00
+BMW,5 SERIES,Door Handle (Electronic),422.65
+BMW,1 SERIES,Steering Rack,421.50
+BMW,1 SERIES,Window Motor,421.31
+BMW,M2,Electrical ,421.29
+BMW,3 SERIES,Timing Chain,421.25
+BMW,5 SERIES,Suspension (Various Faults),418.77
+BMW,3 SERIES,Heater Matrix,417.82
+BMW,5 SERIES,Water Pump,417.35
+BMW,X4,Electrical,416.11
+BMW,5 SERIES,Oil Leaks,414.32
+BMW,1 SERIES,Water Pump,414.20
+BMW,5 SERIES,Spring (Suspension),414.07
+BMW,4 SERIES,Multimedia/ Sat,412.99
+BMW,X6,Brakes (Various Faults),412.50
+BMW,X5,Alternator,411.93
+BMW,3 SERIES,Intercooler,411.00
+BMW,5 SERIES,Door Handle (Electronic),410.95
+BMW,I3,Fuel System,410.56
+BMW,X5,Suspension Pump,409.92
+BMW,1 SERIES,Fuel Lift Pump,409.36
+BMW,1 SERIES,Alternator,409.00
+BMW,X1,Suspension (Various Faults),408.00
+BMW,X5,Water Pump,406.36
+BMW,3 SERIES,Shock Absorber,406.35
+BMW,M3,Spring (Suspension),406.01
+BMW,7 SERIES,Alternator,405.60
+BMW,X5,Electrical ,405.53
+BMW,3 SERIES,Fuel Injectors,405.36
+BMW,4 SERIES,Abs (Various Faults),404.76
+BMW,3 SERIES,Air Bag System,404.43
+BMW,4 SERIES,Wheel Bearing,404.01
+BMW,5 SERIES,Prop Shaft (Centre Bearing),403.30
+BMW,5 SERIES,Spring (Suspension),402.61
+BMW,3 SERIES,,402.35
+BMW,M5,Suspension (Various Faults),400.00
+BMW,3 SERIES,Flywheel ,400.00
+BMW,3 SERIES,Dpf Filter,400.00
+BMW,3 SERIES,Cylinder Head Gasket,400.00
+BMW,5 SERIES,Oxygen (Lambda) Sensor,400.00
+BMW,3 SERIES,Differential,400.00
+BMW,5 SERIES,Central Door Locking,398.80
+BMW,3 SERIES,Alternator,398.00
+BMW,1 SERIES,Washer Pump,397.00
+BMW,1 SERIES,Brakes (Various Faults),396.99
+BMW,1 SERIES,Vanos Unit,396.84
+BMW,1 SERIES,Sensors,395.47
+BMW,3 SERIES,Suspension (Various Faults),395.40
+BMW,1 SERIES,Wiper Motor,394.96
+BMW,3 SERIES,Fuel System,391.88
+BMW,3 SERIES,Electrical,390.94
+BMW,4 SERIES,Air Flow Meter,390.91
+BMW,3 SERIES,E.G.R Valve,390.56
+BMW,3 SERIES,Electrical ,389.45
+BMW,3 SERIES,Engine Oil Pump,386.50
+BMW,1 SERIES,Engine (Various Faults),386.30
+BMW,M4,Suspension (Various Faults),384.76
+BMW,3 SERIES,Electrical,384.12
+BMW,1 SERIES,E.G.R Valve,383.23
+BMW,6 SERIES,Water Pump,381.50
+BMW,5 SERIES,Heater Fan Motor,380.16
+BMW,3 SERIES,Differential,380.00
+BMW,3 SERIES,Wiper Motor,379.75
+BMW,X5,Wheel Bearing,376.45
+BMW,5 SERIES,Electrical,376.02
+BMW,7 SERIES,Door Handle (Electronic),375.01
+BMW,3 SERIES,Fuel System,374.40
+BMW,3 SERIES,Fuel Injectors,373.50
+BMW,X3,Inlet Manifold,371.59
+BMW,X6,Engine (Various Faults),370.80
+BMW,2 SERIES,Ecu (Other),370.00
+BMW,1 SERIES,Fuel System,369.00
+BMW,3 SERIES,Clutch (Various Faults),368.00
+BMW,3 SERIES,Fuel Injectors,366.51
+BMW,4 SERIES,Engine (Various Faults),363.99
+BMW,X3,OXYGEN (LAMBDA) SENSOR,361.65
+BMW,4 SERIES,Turbocharger Actuator (Wastegate),361.08
+BMW,7 SERIES,Abs (Various Faults),360.27
+BMW,5 SERIES,Fuel System,359.00
+BMW,3 SERIES,Vanos Unit,355.83
+BMW,3 SERIES,Steering Pump,355.00
+BMW,3 SERIES,Engine (Various Faults),354.67
+BMW,3 SERIES,Central Door Locking,353.04
+BMW,3 SERIES,Fuel System,351.90
+BMW,6 SERIES,Engine (Various Faults),351.09
+BMW,3 SERIES,Engine (Various Faults),350.00
+BMW,3 SERIES,Flywheel ,350.00
+BMW,3 SERIES,Drive Shaft,350.00
+BMW,X3,Turbocharger,350.00
+BMW,3 SERIES,Oil Leaks,350.00
+BMW,5 SERIES,Turbocharger,350.00
+BMW,I8,Fuel System (Various Faults),349.75
+BMW,3 SERIES,Fuel Injectors,349.54
+BMW,4 SERIES,Oxygen (Lambda) Sensor,346.94
+BMW,5 SERIES,Alternator,346.48
+BMW,4 SERIES,Thermostat Housing,346.40
+BMW,1 SERIES,Fuel Injectors,346.00
+BMW,1 SERIES,Fuel System,344.34
+BMW,4 SERIES,Suspension (Various Faults),343.82
+BMW,1 SERIES,Air Con (Various Faults),341.10
+BMW,X1 4X4,E.G.R Valve,340.69
+BMW,M3,Brake Caliper/Discs,340.00
+BMW,3 SERIES,Air Con (Various Faults),339.44
+BMW,X5,Suspension (Various Faults),338.40
+BMW,X1 4X4,E.G.R Valve,337.76
+BMW,5 SERIES,Suspension (Various Faults),337.42
+BMW,3 SERIES,Fuel System,337.00
+BMW,7 SERIES,Ecu (Other),336.61
+BMW,3 SERIES,Brakes (Various Faults),336.45
+BMW,1 SERIES,Drive Shaft,336.00
+BMW,3 SERIES,Air Con (Various Faults),335.74
+BMW,4 SERIES,,334.42
+BMW,X5,Spring (Suspension),334.00
+BMW,5 SERIES,Wheel Bearing,331.80
+BMW,1 SERIES,Alternator,330.80
+BMW,1 SERIES,Alternator,330.16
+BMW,3 SERIES,Fuel System,329.90
+BMW,5 SERIES,Heater Fan Motor,329.56
+BMW,3 SERIES,Fuel Injectors,329.20
+BMW,3 SERIES,Electrical ,328.60
+BMW,3 SERIES,Fuel Injectors,328.50
+BMW,5 SERIES,E.G.R Valve,327.58
+BMW,5 SERIES,Suspension (Various Faults),327.00
+BMW,1 SERIES,Window Regulator,326.30
+BMW,3 SERIES,Alternator,322.73
+BMW,4 SERIES,Thermostat,321.70
+BMW,3 SERIES,Starter Motor,320.42
+BMW,3 SERIES,Fuel Injectors,320.25
+BMW,3 SERIES,Alternator,319.48
+BMW,1 SERIES,,318.19
+BMW,3 SERIES,Alternator,317.73
+BMW,5 SERIES,Water Pump,316.50
+BMW,3 SERIES,Fuel Injectors,309.50
+BMW,X5,Suspension (Various Faults),305.94
+BMW,3 SERIES,Fuel System,305.52
+BMW,1 SERIES,Throttle Body,304.88
+BMW,1 SERIES,E.G.R Valve,304.76
+BMW,5 SERIES,E.G.R Valve,304.16
+BMW,4 SERIES,Parking Sensor,303.66
+BMW,5 SERIES,Starter Motor,302.19
+BMW,3 SERIES,Heater Fan Motor,302.00
+BMW,I3,Electrical ,301.61
+BMW,1 SERIES,Alternator,301.49
+BMW,5 SERIES,Suspension (Various Faults),301.30
+BMW,3 SERIES,Starter Motor,301.00
+BMW,3 SERIES,Sensors,300.70
+BMW,5 SERIES,Turbocharger,300.00
+BMW,X1,Clutch (Various Faults),300.00
+BMW,5 SERIES,Electrical ,300.00
+BMW,3 SERIES,Abs (Various Faults),300.00
+BMW,1 SERIES,Fuel System,299.80
+BMW,3 SERIES,Fuel System,299.23
+BMW,3 SERIES,Fuel System,299.00
+BMW,3 SERIES,Fuel Injectors,298.99
+BMW,3 SERIES,,298.00
+BMW,6 SERIES,Spring (Suspension),297.15
+BMW,1 SERIES,BRAKE CALIPER/DISCS,295.91
+BMW,M5,Suspension (Various Faults),294.80
+BMW,1 SERIES,Oxygen (Lambda) Sensor,294.00
+BMW,1 SERIES,Oil Leaks,292.97
+BMW,1 SERIES,Water Pump,292.41
+BMW,5 SERIES,Sensors,291.88
+BMW,1 SERIES,Wheel Bearing,288.14
+BMW,M5,Fuel Injectors,287.17
+BMW,1 SERIES,Clutch (Various Faults),286.50
+BMW,3 SERIES,Drive Shaft,286.44
+BMW,X6,Sensors,284.00
+BMW,6 SERIES,Electrical,283.22
+BMW,X6,Electrical ,283.13
+BMW,1 SERIES,Brakes (Various Faults),283.11
+BMW,3 SERIES,Fuel System,280.15
+BMW,5 SERIES,E.G.R Valve,279.84
+BMW,X3,E.G.R Valve,279.83
+BMW,2 SERIES,Oil Leaks,278.60
+BMW,3 SERIES,Sensors,278.42
+BMW,1 SERIES,Brakes (Various Faults),278.32
+BMW,3 SERIES,Cooling,277.50
+BMW,X6,Electrical,277.28
+BMW,X5,Heater Fan Motor,276.37
+BMW,3 SERIES,Sensors,274.65
+BMW,5 SERIES,Spring (Suspension),274.10
+BMW,3 SERIES,Alternator,273.73
+BMW,7 SERIES,Water Pump,272.92
+BMW,1 SERIES,Alternator,272.90
+BMW,3 SERIES,Air Flow Meter,272.80
+BMW,2 SERIES,E.G.R Valve,272.08
+BMW,3 SERIES,Fuel System,271.23
+BMW,3 SERIES,Air Con (Various Faults),269.83
+BMW,1 SERIES,Abs (Various Faults),269.50
+BMW,1 SERIES,Air Con (Various Faults),269.50
+BMW,X1 4X4,Air Flow Meter,269.19
+BMW,1 SERIES,E.G.R Valve,268.50
+BMW,1 SERIES,Water Pump,267.64
+BMW,X3,E.G.R Valve,267.35
+BMW,X6,Heater/Glow Plugs,266.99
+BMW,3 SERIES,Window Motor,266.95
+BMW,I3,Nox Sensor,266.15
+BMW,1 SERIES,Electrical ,265.82
+BMW,3 SERIES,Steering Pump,265.76
+BMW,X3,Suspension (Various Faults),265.49
+BMW,3 SERIES,,261.82
+BMW,1 SERIES,Water Pump,260.94
+BMW,1 SERIES,Electrical,260.76
+BMW,X5 M,E.G.R Valve,260.00
+BMW,3 SERIES,Thermostat,258.91
+BMW,3 SERIES,Seat Belt,258.78
+BMW,X3,E.G.R Valve,258.46
+BMW,1 SERIES,Alternator,258.24
+BMW,3 SERIES,Oxygen (Lambda) Sensor,256.80
+BMW,X5,Central Door Locking,256.21
+BMW,1 SERIES,Electrical ,255.58
+BMW,5 SERIES,Suspension (Various Faults),255.24
+BMW,3 SERIES,E.G.R Valve,254.84
+BMW,1 SERIES,Brakes (Various Faults),253.93
+BMW,5 SERIES,Suspension (Various Faults),253.00
+BMW,X5,Suspension (Various Faults),252.09
+BMW,3 SERIES,Engine (Various Faults),252.00
+BMW,2 SERIES,Window Regulator,251.96
+BMW,3 SERIES,Sensors,251.32
+BMW,3 SERIES,Fuel Injectors,251.00
+BMW,1 SERIES,Window Motor,250.66
+BMW,1 SERIES,Starter Motor,250.55
+BMW,X5,Suspension (Various Faults),250.00
+BMW,1 SERIES,Clutch (Various Faults),250.00
+BMW,1 SERIES,Nox Sensor,250.00
+BMW,1 SERIES,Ecu (Other),250.00
+BMW,3 SERIES,Air Con (Various Faults),250.00
+BMW,3 SERIES,Engine (Various Faults),250.00
+BMW,3 SERIES,Steering Rack,250.00
+BMW,3 SERIES,E.G.R Valve,249.28
+BMW,X3,Sensors,249.00
+BMW,X6,Sensors,248.00
+BMW,5 SERIES,Sensors,248.00
+BMW,1 SERIES,Electrical ,247.80
+BMW,5 SERIES,Sensors,247.51
+BMW,5 SERIES,Washer Pump,245.99
+BMW,1 SERIES,Alternator,244.70
+BMW,5 SERIES,Oxygen (Lambda) Sensor,243.94
+BMW,X3,Spring (Suspension),243.93
+BMW,1 SERIES,Starter Motor,243.80
+BMW,X4,Electrical ,243.77
+BMW,5 SERIES,Spring (Suspension),243.49
+BMW,1 SERIES,Water Pump,243.41
+BMW,1 SERIES,Water Pump,243.41
+BMW,4 SERIES,Sensors,242.58
+BMW,5 SERIES,Alternator,242.09
+BMW,2 SERIES,E.G.R Valve,242.07
+BMW,3 SERIES,Central Door Locking,241.02
+BMW,7 SERIES,Suspension (Various Faults),240.99
+BMW,1 SERIES,Shock Absorber,240.96
+BMW,1 SERIES,Engine Oil Pump,239.90
+BMW,5 SERIES,Heater/Glow Plugs,239.90
+BMW,2 SERIES,E.G.R Valve,239.84
+BMW,3 SERIES,Starter Motor,237.82
+BMW,1 SERIES,Spring (Suspension),237.59
+BMW,1 SERIES,Window Regulator,235.56
+BMW,3 SERIES,DRIVE SHAFT,235.53
+BMW,3 SERIES,E.G.R Valve,235.33
+BMW,X1 4X4,Brakes (Various Faults),235.15
+BMW,1 SERIES,Fuel Injectors,234.95
+BMW,3 SERIES,Starter Motor,234.70
+BMW,7 SERIES,Ecu (Other),231.90
+BMW,3 SERIES,E.G.R Valve,231.35
+BMW,3 SERIES,Sensors,231.00
+BMW,5 SERIES,Electrical ,230.78
+BMW,M3,Brake Caliper/Discs,229.20
+BMW,1 SERIES,Engine (Various Faults),229.00
+BMW,X5,Engine (Various Faults),227.98
+BMW,3 SERIES,Electrical ,227.57
+BMW,4 SERIES,Fuel System,227.25
+BMW,5 SERIES,Suspension (Various Faults),227.10
+BMW,5 SERIES,Suspension (Various Faults),227.00
+BMW,3 SERIES,,226.78
+BMW,Z4,Electrical ,226.13
+BMW,1 SERIES,Hose/Pipe ,225.00
+BMW,5 SERIES,Electrical,223.92
+BMW,Z4,Vanos Unit,223.66
+BMW,1 SERIES,Water Pump,223.39
+BMW,M5,Electrical ,222.68
+BMW,5 SERIES,E.G.R Valve,222.34
+BMW,1 SERIES,Engine (Various Faults),221.74
+BMW,1 SERIES,Electrical ,221.60
+BMW,3 SERIES,Radiator,218.95
+BMW,M3,Window Motor,218.15
+BMW,1 SERIES,Water Pump,217.99
+BMW,X5,Central Door Locking,217.76
+BMW,5 SERIES,Air Con (Various Faults),217.33
+BMW,1 SERIES,Electrical ,216.85
+BMW,3 SERIES,Thermostat Housing,215.56
+BMW,3 SERIES,Wheel Bearing,214.00
+BMW,M5,Sensors,212.61
+BMW,1 SERIES,Electrical ,212.10
+BMW,1 SERIES,Electrical ,211.97
+BMW,1 SERIES,Wiper Motor,211.50
+BMW,3 SERIES,Gearbox (Various Faults),211.31
+BMW,X3,Window Motor,210.66
+BMW,X6,Electrical ,210.45
+BMW,6 SERIES,Suspension (Various Faults),210.43
+BMW,5 SERIES,Electrical ,210.11
+BMW,X3,E.G.R Valve,210.09
+BMW,6 SERIES,Ignition Coil,210.00
+BMW,1 SERIES,Sensors,209.40
+BMW,1 SERIES,Brakes,209.29
+BMW,5 SERIES,Suspension (Various Faults),209.00
+BMW,M3,Engine (Various Faults),207.09
+BMW,3 SERIES,Alternator,207.00
+BMW,5 SERIES,Spring (Suspension),205.99
+BMW,3 SERIES,Fuel System,205.50
+BMW,1 SERIES,Vanos Unit,205.16
+BMW,3 SERIES,Abs (Various Faults),204.72
+BMW,3 SERIES,E.G.R Valve,204.64
+BMW,3 SERIES,E.G.R Valve,204.29
+BMW,1 SERIES,Air Con (Various Faults),203.96
+BMW,1 SERIES,Drive Train,202.19
+BMW,X5 M,Suspension (Various Faults),202.05
+BMW,1 SERIES,Water Pump,201.80
+BMW,3 SERIES,Electrical ,201.41
+BMW,3 SERIES,Water Pump,200.34
+BMW,3 SERIES,Sensors,200.00
+BMW,1 SERIES,Water Pump,200.00
+BMW,1 SERIES,Window Regulator,200.00
+BMW,5 SERIES,Shock Absorber,200.00
+BMW,1 SERIES,Engine (Various Faults),200.00
+BMW,2 SERIES,Electrical ,199.24
+BMW,1 SERIES,Wiper Motor,199.20
+BMW,3 SERIES,Heater Resistor,198.81
+BMW,3 SERIES,Steering Rack,197.50
+BMW,3 SERIES,BRAKES,195.05
+BMW,1 SERIES,Electrical,193.92
+BMW,5 SERIES,Central Door Locking,192.97
+BMW,3 SERIES,Ignition Coil,192.46
+BMW,1 SERIES,Temperature Sender,191.00
+BMW,5 SERIES,Spring (Suspension),191.00
+BMW,3 SERIES,Starter Motor,190.99
+BMW,3 SERIES,Heater/Glow Plugs,189.30
+BMW,1 SERIES,Wiper Motor,188.70
+BMW,5 SERIES,THERMOSTAT,188.39
+BMW,6 SERIES,Air Con (Various Faults),188.14
+BMW,5 SERIES,Oxygen (Lambda) Sensor,188.00
+BMW,1 SERIES,Water Pump,187.50
+BMW,5 SERIES,Steering Rack,186.00
+BMW,1 SERIES,Ignition Coil,185.39
+BMW,3 SERIES,Clutch (Various Faults),185.25
+BMW,1 SERIES,Wiper Motor,183.14
+BMW,3 SERIES,Brakes (Various Faults),182.90
+BMW,7 SERIES,Electrical,181.97
+BMW,7 SERIES,,181.81
+BMW,3 SERIES,Sensors,181.09
+BMW,1 SERIES,Suspension (Various Faults),180.92
+BMW,3 SERIES,Shock Absorber,180.00
+BMW,5 SERIES,Spring (Suspension),178.00
+BMW,Z4,Engine (Various Faults),177.41
+BMW,3 SERIES,Fuel System,177.14
+BMW,M5,Fuel System,176.50
+BMW,1 SERIES,Abs (Various Faults),175.44
+BMW,3 SERIES,Brakes (Various Faults),175.00
+BMW,3 SERIES,Heating System,175.00
+BMW,3 SERIES,Sensors,175.00
+BMW,X5,Water Pump,175.00
+BMW,5 SERIES,Wheel Bearing,173.30
+BMW,5 SERIES,Suspension (Various Faults),173.00
+BMW,5 SERIES,Brakes (Various Faults),172.95
+BMW,6 SERIES,Ignition Coil,172.00
+BMW,2 SERIES,Sensors,170.42
+BMW,M5,Electrical ,169.52
+BMW,1 SERIES,,169.00
+BMW,3 SERIES,Abs (Various Faults),168.22
+BMW,3 SERIES,Turbocharger,168.00
+BMW,6 SERIES,Oil Cooler-,168.00
+BMW,5 SERIES,Gearbox (Various Faults),168.00
+BMW,3 SERIES,Engine (Various Faults),168.00
+BMW,1 SERIES,Engine (Various Faults),168.00
+BMW,X5,Cv Joint,167.94
+BMW,M5,Abs (Various Faults),167.30
+BMW,3 SERIES,Ecu (Other),166.94
+BMW,3 SERIES,Ignition Coil,164.54
+BMW,1 SERIES,Suspension (Various Faults),164.46
+BMW,1 SERIES,Spring (Suspension),163.73
+BMW,1 SERIES,Wiper Motor,161.00
+BMW,3 SERIES,Oil Leaks,160.42
+BMW,1 SERIES,Electrical ,158.10
+BMW,M3,Abs (Various Faults),157.42
+BMW,3 SERIES,Electrical ,157.18
+BMW,3 SERIES,Brakes (Various Faults),155.60
+BMW,1 SERIES,Brakes (Various Faults),155.27
+BMW,5 SERIES,Thermostat Housing,153.82
+BMW,1 SERIES,Water Pump,151.99
+BMW,5 SERIES,E.G.R Valve,151.84
+BMW,Z4M,Electrical,150.00
+BMW,1 SERIES,Catalyst (Exhaust),150.00
+BMW,5 SERIES,Engine (Various Faults),150.00
+BMW,3 SERIES,Abs (Various Faults),150.00
+BMW,I3,Electrical ,150.00
+BMW,3 SERIES,Abs (Various Faults),149.05
+BMW,3 SERIES,Shock Absorber,148.09
+BMW,1 SERIES,Window Motor,145.60
+BMW,5 SERIES,Multimedia/ Sat,144.86
+BMW,6 SERIES,Sensors,144.80
+BMW,3 SERIES,Ignition Coil,144.72
+BMW,3 SERIES,Engine (Various Faults),144.00
+BMW,5 SERIES,Suspension Pump,144.00
+BMW,X6,Fuel Lift Pump,144.00
+BMW,1 SERIES,Engine (Various Faults),144.00
+BMW,3 SERIES,Shock Absorber,141.68
+BMW,3 SERIES,Ignition Coil,141.55
+BMW,X5,Spring (Suspension),141.23
+BMW,3 SERIES,Fuel System,140.19
+BMW,X5,,139.91
+BMW,3 SERIES,Wheel Bearing,137.95
+BMW,1 SERIES,Water Pump,136.00
+BMW,1 SERIES,Drive Shaft,134.42
+BMW,M4,Abs (Various Faults),133.02
+BMW,6 SERIES,Ignition Coil,132.62
+BMW,1 SERIES,Wiper Motor,132.44
+BMW,5 SERIES,Spring (Suspension),131.00
+BMW,3 SERIES,Ignition Coil,131.00
+BMW,3 SERIES,Washer Pump,130.40
+BMW,1 SERIES,Camshaft Belt,130.38
+BMW,1 SERIES,Spring (Suspension),129.68
+BMW,M3,Abs (Various Faults),127.92
+BMW,X3,Suspension (Various Faults),127.83
+BMW,X3,,126.63
+BMW,1 SERIES,Sensors,126.17
+BMW,1 SERIES,Sensors,125.58
+BMW,3 SERIES,Brakes (Various Faults),125.52
+BMW,3 SERIES,Drive Shaft,125.00
+BMW,1 SERIES,Electrical ,124.91
+BMW,1 SERIES,Heater Fan Motor,123.44
+BMW,Z4,Electrical ,123.11
+BMW,3 SERIES,,122.06
+BMW,3 SERIES,Abs (Various Faults),122.03
+BMW,1 SERIES,Suspension (Various Faults),122.01
+BMW,3 SERIES,Ignition Coil,121.98
+BMW,1 SERIES,Ignition Coil,121.40
+BMW,X6,Steering Rack,120.00
+BMW,6 SERIES,Ignition Coil,120.00
+BMW,5 SERIES,Air Con (Various Faults),119.50
+BMW,1 SERIES,Electrical,119.36
+BMW,1 SERIES,Ignition Coil,118.53
+BMW,Z4,Electrical ,118.11
+BMW,X3,Sensors,117.92
+BMW,1 SERIES,Fuel System,117.86
+BMW,1 SERIES,Ignition Coil,116.40
+BMW,1 SERIES,Spring (Suspension),115.75
+BMW,3 SERIES,E.G.R Valve,115.44
+BMW,3 SERIES,Thermostat,114.89
+BMW,X1,Tyres,114.50
+BMW,M3,Abs (Various Faults),113.94
+BMW,3 SERIES,Washer Pump,111.58
+BMW,3 SERIES,Ignition Coil,111.00
+BMW,1 SERIES,Electrical ,110.26
+BMW,1 SERIES,Suspension (Various Faults),109.90
+BMW,M5,Fuel System,109.40
+BMW,1 SERIES,Steering Rack,108.00
+BMW,3 SERIES,Washer Pump,106.92
+BMW,3 SERIES,Sensors,105.84
+BMW,X3,Abs (Various Faults),104.95
+BMW,1 SERIES,Brakes (Various Faults),104.13
+BMW,1 SERIES,Ignition Coil,103.53
+BMW,3 SERIES,Ignition Coil,100.46
+BMW,1 SERIES,Ignition Coil,100.12
+BMW,5 SERIES,Sensors,100.00
+BMW,3 SERIES,Electrical ,100.00
+BMW,3 SERIES,Starter Motor,100.00
+BMW,1 SERIES,Brakes (Various Faults),99.48
+BMW,4 SERIES,Steering Rack,98.80
+BMW,3 SERIES,Wheel Bearing,96.72
+BMW,3 SERIES,Electrical ,96.41
+BMW,M3,Abs (Various Faults),94.97
+BMW,3 SERIES,Abs (Various Faults),94.89
+BMW,X5,Electrical ,94.15
+BMW,3 SERIES,Wheel Bearing,94.08
+BMW,5 SERIES,Suspension (Various Faults),92.59
+BMW,3 SERIES,Drive Shaft,91.00
+BMW,1 SERIES,Central Door Locking,90.07
+BMW,3 SERIES,Abs (Various Faults),89.00
+BMW,3 SERIES,Abs (Various Faults),88.65
+BMW,3 SERIES,Ignition Coil,88.38
+BMW,X5,Track Rod Ends,85.99
+BMW,1 SERIES,,85.68
+BMW,M5,AA RECOVERY,85.68
+BMW,M4,,85.68
+BMW,1 SERIES,,85.68
+BMW,3 SERIES,,85.68
+BMW,1 SERIES,,85.68
+BMW,3 SERIES,,85.68
+BMW,5 SERIES,,85.68
+BMW,1 SERIES,,85.68
+BMW,1 SERIES,,85.68
+BMW,1 SERIES,,85.68
+BMW,1 SERIES,,85.68
+BMW,5 SERIES,,85.68
+BMW,1 SERIES,,85.68
+BMW,X3,,85.68
+BMW,1 SERIES,,85.68
+BMW,1 SERIES,,85.68
+BMW,1 SERIES,,85.68
+BMW,3 SERIES,,85.68
+BMW,3 SERIES,Washer Pump,84.91
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,1 SERIES,Camshaft Belt,84.00
+BMW,5 SERIES,Engine (Various Faults),84.00
+BMW,X5,Gearbox (Various Faults),84.00
+BMW,3 SERIES,Gearbox (Various Faults),84.00
+BMW,X5,Suspension Pump,84.00
+BMW,X5 M,Handbrake Lever,84.00
+BMW,M3,Prop Shaft (Centre Bearing),84.00
+BMW,X3,Multimedia/ Sat,84.00
+BMW,5 SERIES,Fuel System (Various Faults),84.00
+BMW,3 SERIES,Dpf Filter,84.00
+BMW,1 SERIES,Differential,84.00
+BMW,1 SERIES,Ecu (Other),84.00
+BMW,5 SERIES,Inlet Manifold,84.00
+BMW,3 SERIES,Engine Oil Pump,84.00
+BMW,5 SERIES,Engine (Various Faults),84.00
+BMW,M1,Engine (Various Faults),84.00
+BMW,X5 M,E.G.R Valve,84.00
+BMW,1 SERIES,Brakes (Various Faults),84.00
+BMW,X5,Gearbox (Various Faults),84.00
+BMW,X5,Gearbox (Various Faults),84.00
+BMW,1 SERIES,Gearbox (Various Faults),84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,X5,Steering Rack,84.00
+BMW,5 SERIES,Turbocharger,84.00
+BMW,5 SERIES,Turbocharger,84.00
+BMW,5 SERIES,Brake Caliper/Discs,84.00
+BMW,X3,Gearbox (Various Faults),84.00
+BMW,I8,Engine (Various Faults),84.00
+BMW,X5,Differential,84.00
+BMW,X5,Prop Shaft,84.00
+BMW,3 SERIES,Gearbox (Various Faults),84.00
+BMW,X6,Gearbox (Various Faults),84.00
+BMW,5 SERIES,Timing Chain,84.00
+BMW,3 SERIES,Ecu (Other),84.00
+BMW,X1 4X4,Differential,84.00
+BMW,X6,Timing Chain,84.00
+BMW,5 SERIES,Engine (Various Faults),84.00
+BMW,1 SERIES,Transfer Box,84.00
+BMW,3 SERIES,Gearbox (Various Faults),84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Gearbox (Various Faults),84.00
+BMW,1 SERIES,Differential,84.00
+BMW,3 SERIES,Turbocharger,84.00
+BMW,1 SERIES,Intercooler,84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Clutch (Various Faults),84.00
+BMW,1 SERIES,Flywheel ,84.00
+BMW,3 SERIES,Engine Oil Pump,84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Engine Oil Pump,84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Suspension (Various Faults),84.00
+BMW,5 SERIES,Gearbox (Various Faults),84.00
+BMW,5 SERIES,Turbocharger,84.00
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,1 SERIES,Differential,84.00
+BMW,4 SERIES,Gearbox (Various Faults),84.00
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,6 SERIES,Turbocharger,84.00
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,X3,Gearbox (Various Faults),84.00
+BMW,1 SERIES,Differential,84.00
+BMW,X6,Shock Absorber,84.00
+BMW,3 SERIES,Steering Rack,84.00
+BMW,X5,Drive Shaft,84.00
+BMW,3 SERIES,Gearbox (Various Faults),84.00
+BMW,3 SERIES,Gearbox (Various Faults),84.00
+BMW,5 SERIES,Engine (Various Faults),84.00
+BMW,X5,Gearbox (Various Faults),84.00
+BMW,3 SERIES,Gearbox (Various Faults),84.00
+BMW,2 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Fuel System,84.00
+BMW,5 SERIES,Engine Oil Pump,84.00
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,X5,Suspension (Various Faults),84.00
+BMW,X3,Steering Rack,84.00
+BMW,1 SERIES,Engine (Various Faults),84.00
+BMW,6 SERIES,Turbocharger,84.00
+BMW,3 SERIES,Differential,84.00
+BMW,3 SERIES,Engine (Various Faults),84.00
+BMW,5 SERIES,Engine (Various Faults),84.00
+BMW,3 SERIES,Oil Pump,84.00
+BMW,1 SERIES,Gearbox (Various Faults),84.00
+BMW,3 SERIES,Vanos Unit,83.08
+BMW,1 SERIES,Electrical ,82.98
+BMW,1 SERIES,Abs (Various Faults),82.85
+BMW,X3,Suspension (Various Faults),80.01
+BMW,1 SERIES,Ignition Coil,78.00
+BMW,1 SERIES,Washer Pump,76.46
+BMW,3 SERIES,Abs (Various Faults),76.29
+BMW,3 SERIES,Thermostat,75.49
+BMW,1 SERIES,Roof (Motors / Electrics),75.00
+BMW,3 SERIES,Ignition Coil,74.15
+BMW,3 SERIES,Ignition Coil,73.64
+BMW,1 SERIES,Water Pump,72.57
+BMW,5 SERIES,Ignition Coil,72.54
+BMW,1 SERIES,Electrical ,69.25
+BMW,3 SERIES,Abs (Various Faults),66.12
+BMW,3 SERIES,Ignition Coil,63.25

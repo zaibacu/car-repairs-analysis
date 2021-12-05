@@ -1,0 +1,739 @@
+make,model,part,total_paid
+AUDI,A1,Engine (Various Faults),8994.65
+AUDI,RS4,Differential,8814.17
+AUDI,A7,Engine (Various Faults),8806.32
+AUDI,RS5,Differential,8731.45
+AUDI,Q7,Oil Leaks,8638.55
+AUDI,TT QUATTRO,Engine (Various Faults),8513.45
+AUDI,A4,Gearbox (Various Faults),8507.76
+AUDI,A4,Gearbox (Various Faults),8450.69
+AUDI,ALLROAD,Gearbox (Various Faults),8357.23
+AUDI,A3,Engine (Various Faults),8276.68
+AUDI,Q7,Fuel Injectors,5745.08
+AUDI,A7,Gearbox (Various Faults),5700.00
+AUDI,A4,Gearbox (Various Faults),5000.00
+AUDI,A1,Engine (Various Faults),5000.00
+AUDI,A1,Engine (Various Faults),5000.00
+AUDI,RS4,Differential,4983.83
+AUDI,ALLROAD,Gearbox (Various Faults),4539.88
+AUDI,RS6,Gearbox (Various Faults),4284.00
+AUDI,Q7,Oil Leaks,4039.77
+AUDI,R8,Gearbox (Various Faults),3844.83
+AUDI,A7,Electrical ,3524.60
+AUDI,A7,Ecu (Other),3180.00
+AUDI,RS5,Gearbox (Various Faults),3129.88
+AUDI,S3,Engine (Various Faults),3084.00
+AUDI,A6,Gearbox (Various Faults),2754.00
+AUDI,A3,Mechatronic Unit,2720.40
+AUDI,R8,Suspension (Various Faults),2544.00
+AUDI,A7,Steering Rack,2469.85
+AUDI,A5 QUATTRO,Gearbox (Various Faults),2445.08
+AUDI,A5 QUATTRO,Gearbox (Various Faults),2304.52
+AUDI,Q3,Turbocharger,2231.36
+AUDI,A3,Fuel System,2190.95
+AUDI,RS5,Gearbox (Various Faults),2151.56
+AUDI,QUATTRO,Flywheel,2151.24
+AUDI,A5,,2075.70
+AUDI,Q5,Steering Rack,2026.78
+AUDI,A5,Steering Rack,1955.00
+AUDI,Q7,Oil Leaks,1858.31
+AUDI,A3,Gearbox (Various Faults),1820.76
+AUDI,A5,Ecu Engine,1602.49
+AUDI,A7,Differential,1598.23
+AUDI,A5,Gearbox (Various Faults),1566.25
+AUDI,ALLROAD,Amplifier,1565.34
+AUDI,RS3,Catalyst (Exhaust),1557.44
+AUDI,A3,Cylinder Head Gasket,1534.62
+AUDI,Q7,Electrical ,1531.91
+AUDI,A5 QUATTRO,Electrical,1520.02
+AUDI,A6,Gearbox (Various Faults),1500.00
+AUDI,Q5,Flywheel ,1473.05
+AUDI,A3,Engine (Various Faults),1464.00
+AUDI,Q7,Electrical ,1455.00
+AUDI,A3,Thermostat,1316.11
+AUDI,A5 QUATTRO,E.G.R Valve,1302.56
+AUDI,A4,Fuel System,1292.22
+AUDI,RS5,Gearbox (Various Faults),1275.00
+AUDI,A4,Clutch (Various Faults),1252.00
+AUDI,A7,Water Pump,1248.00
+AUDI,TT,Cooling ,1245.64
+AUDI,A4,Wiring Loom,1233.43
+AUDI,TT,Gearbox (Various Faults),1200.00
+AUDI,A7,Gearbox (Various Faults),1189.02
+AUDI,A3,,1179.60
+AUDI,A4,Flywheel ,1177.66
+AUDI,A7,Oil Leaks,1174.64
+AUDI,A4,Engine (Various Faults),1164.67
+AUDI,A7,Fuel Injectors,1156.54
+AUDI,A3,Gearbox (Various Faults),1104.00
+AUDI,Q7,Suspension Pump,1090.80
+AUDI,RS3,Engine (Various Faults),1084.00
+AUDI,A3,Cylinder Head Gasket,1084.00
+AUDI,A4,Gearbox (Various Faults),1084.00
+AUDI,QUATTRO,Clutch (Various Faults),1081.29
+AUDI,Q7,Steering Pump,1067.46
+AUDI,A3,Clutch (Various Faults),1065.38
+AUDI,R8,Oil Cooler-,1057.52
+AUDI,A6,Turbocharger,1046.17
+AUDI,A6,E.G.R Cooler,1038.97
+AUDI,A5,Oil Leaks,1030.61
+AUDI,A3,Gearbox (Various Faults),1020.00
+AUDI,TT,Clutch (Various Faults),1019.29
+AUDI,A1,Turbocharger,1000.09
+AUDI,S3,Gearbox (Various Faults),1000.00
+AUDI,Q5,Gearbox (Various Faults),1000.00
+AUDI,A5,Timing Chain,1000.00
+AUDI,A4,Ecu (Other),1000.00
+AUDI,A6,Ad Blue System (Emissions),994.13
+AUDI,A5,Engine (Various Faults),984.00
+AUDI,A4,Clutch (Various Faults),969.88
+AUDI,A6,Air Bag System,962.09
+AUDI,S3,Radiator,960.14
+AUDI,A3,Air Con (Various Faults),947.94
+AUDI,TT,Gearbox (Various Faults),941.98
+AUDI,RS3,Gearbox (Various Faults),930.56
+AUDI,A1,Steering Pump,852.00
+AUDI,A3,E.G.R Valve,845.50
+AUDI,ALLROAD,Drive Shaft,831.08
+AUDI,TT,Thermostat,827.78
+AUDI,TT,Clutch (Various Faults),826.62
+AUDI,S3,Thermostat,821.73
+AUDI,A6,Fuel System,807.14
+AUDI,A4,Alternator,805.33
+AUDI,S7,Hose/Pipe ,800.00
+AUDI,RS3,Alternator,797.03
+AUDI,Q7,Brakes,791.22
+AUDI,A8,Electrical,787.77
+AUDI,R8,Hose/Pipe ,784.00
+AUDI,RS4,Thermostat,780.24
+AUDI,A3,Heater Matrix,778.72
+AUDI,S5,Water Pump,763.97
+AUDI,A4,Flywheel ,763.80
+AUDI,A7,Electrical ,760.27
+AUDI,A3,Clutch (Various Faults),758.16
+AUDI,A8,Ad Blue System (Emissions),755.02
+AUDI,A4,Steering Pump,750.00
+AUDI,A3,Electrical ,743.15
+AUDI,RS4,Shock Absorber,734.11
+AUDI,Q3,Nox Sensor,730.15
+AUDI,A5,Flywheel ,728.76
+AUDI,Q7,,727.98
+AUDI,A1,Dpf Filter,721.30
+AUDI,A7,Gearbox Actuator ,718.13
+AUDI,A3,Flywheel ,713.00
+AUDI,A3,Oil Leaks,712.77
+AUDI,A3,E.G.R Valve,710.02
+AUDI,A4,Gear Selector,708.80
+AUDI,A4,Fuel Injectors,702.72
+AUDI,A3,Engine (Various Faults),700.00
+AUDI,A7,Gearbox (Various Faults),700.00
+AUDI,S5,Ecu (Other),696.48
+AUDI,Q5,Wheel Bearing,690.74
+AUDI,A5,Cooling,685.27
+AUDI,A3,Dpf Filter,683.00
+AUDI,Q7,Fuel System,676.71
+AUDI,A1,E.G.R Valve,675.19
+AUDI,A3,Brakes (Various Faults),672.70
+AUDI,A4,Alternator,670.48
+AUDI,A3,Turbocharger,661.20
+AUDI,TT,Differential,661.00
+AUDI,A4 QUATTRO,Air Con (Various Faults),660.00
+AUDI,TT,Gearbox (Various Faults),659.00
+AUDI,A3,E.G.R Valve,656.40
+AUDI,Q7,Electrical ,649.87
+AUDI,A4,Starter Motor,648.99
+AUDI,A3,Flywheel ,647.94
+AUDI,Q7,Central Door Locking,645.61
+AUDI,A3,Sensors,645.42
+AUDI,S8,Fuel System (Various Faults),640.34
+AUDI,A6,Starter Motor,639.12
+AUDI,A5,Engine (Various Faults),638.30
+AUDI,A3,Heater Fan Motor,625.20
+AUDI,A3,Turbocharger,624.00
+AUDI,Q3,Oxygen (Lambda) Sensor,615.94
+AUDI,A1,E.G.R Valve,611.24
+AUDI,A3,Brakes (Various Faults),611.12
+AUDI,Q7,Fuel System,611.00
+AUDI,TT,Water Pump,610.48
+AUDI,A5,Clutch (Various Faults),609.00
+AUDI,RS4,Fuel System,605.67
+AUDI,S3,Camshaft Sensor,605.44
+AUDI,A3,Thermostat Housing,600.00
+AUDI,A4,E.G.R Valve,598.23
+AUDI,A6,Fuel System,594.34
+AUDI,A3,,587.71
+AUDI,A6,Steering Pump,584.94
+AUDI,S5,Catalyst (Exhaust),584.70
+AUDI,A4,Cylinder Head Gasket,584.00
+AUDI,S3,Thermostat Housing,582.15
+AUDI,A3,Abs Pump ,580.00
+AUDI,A6,Heater Matrix,579.24
+AUDI,Q7,Fuel Injectors,578.25
+AUDI,A6,Wheel Bearing,576.19
+AUDI,A3,Brakes (Various Faults),573.58
+AUDI,Q3,Oxygen (Lambda) Sensor,570.38
+AUDI,TT,Thermostat Housing,570.09
+AUDI,S3,Fuel Injectors,568.44
+AUDI,TT,Roof (Motors / Electrics),567.32
+AUDI,A3,Gearbox (Various Faults),565.27
+AUDI,A3,Flywheel ,563.76
+AUDI,RS4,Shock Absorber,562.10
+AUDI,Q7,Suspension Pump,560.51
+AUDI,A3,Flywheel ,560.39
+AUDI,RS4,Electrical ,560.25
+AUDI,RS4,Other,549.49
+AUDI,A6,Throttle Body,546.22
+AUDI,A1,Heater Fan Motor,546.12
+AUDI,A3,E.G.R Valve,542.76
+AUDI,A1,,536.53
+AUDI,A3,E.G.R Valve,532.28
+AUDI,S3,Thermostat,530.29
+AUDI,TT (4WD),Water Pump,524.92
+AUDI,A5,Multimedia,524.34
+AUDI,A3,Air Con (Various Faults),522.00
+AUDI,Q7,Water Pump,521.45
+AUDI,A7,Heater Fan Motor,519.12
+AUDI,A1,Electrical ,516.60
+AUDI,A3,Gearbox (Various Faults),504.57
+AUDI,A3,Oil Cooler-,500.40
+AUDI,A6,Other,500.00
+AUDI,TT,Turbocharger,500.00
+AUDI,A3,Gearbox (Various Faults),500.00
+AUDI,A7,Dpf Filter,500.00
+AUDI,A5,Ecu (Other),500.00
+AUDI,A4,Sensors,500.00
+AUDI,R8,Hose/Pipe ,500.00
+AUDI,A4,Ad Blue System (Emissions),500.00
+AUDI,A3,,500.00
+AUDI,TT,Timing Chain,498.38
+AUDI,Q3,Throttle Body,497.91
+AUDI,A1,Timing Belt,494.52
+AUDI,A5,Wheel Bearing,493.98
+AUDI,A4,Fuel System,493.60
+AUDI,A3,Water Pump,493.52
+AUDI,RS5,Oil Leaks,489.89
+AUDI,A6,,489.49
+AUDI,A3,Fuel System,487.00
+AUDI,TT,Water Pump,485.41
+AUDI,S5,Thermostat,484.99
+AUDI,Q7,Water Pump,482.07
+AUDI,A3,Turbocharger,479.39
+AUDI,A1,Drive Shaft,478.34
+AUDI,A8,Fuel Injectors,475.87
+AUDI,A5,Alternator,474.00
+AUDI,A4,Alternator,473.64
+AUDI,A4,Inlet Manifold,472.70
+AUDI,A6,Heater Matrix,471.82
+AUDI,A3,Fuel Injectors,471.20
+AUDI,A1,Air Bag Squib,469.62
+AUDI,A3,Radiator,468.98
+AUDI,A7,E.G.R Valve,468.46
+AUDI,A3,E.G.R Valve,466.65
+AUDI,A3,Gearbox (Various Faults),465.00
+AUDI,A4,Air Con (Various Faults),460.50
+AUDI,A4,Air Con (Various Faults),457.74
+AUDI,A5,Wheel Bearing,455.58
+AUDI,A1,Fuel Injectors,454.38
+AUDI,A3,Oil Cooler-,452.68
+AUDI,A5,Cooling ,452.50
+AUDI,A3,Ecu (Other),450.11
+AUDI,A6,Cylinder Head Gasket,450.00
+AUDI,A3,Clutch (Various Faults),450.00
+AUDI,A6,Mirror Assembly,449.20
+AUDI,A4,Engine Oil Pump,449.00
+AUDI,A5,Brakes (Various Faults),448.00
+AUDI,A6,Alternator,446.78
+AUDI,A6,Wiper Motor,445.30
+AUDI,A1,Fuel System,445.12
+AUDI,TT (4WD),Turbocharger,439.68
+AUDI,A1,Clutch (Various Faults),438.29
+AUDI,S3,Camshaft Belt,436.80
+AUDI,A3,Fuel System,435.98
+AUDI,S4 QUATTRO,Engine (Various Faults),435.05
+AUDI,A6,Clutch (Various Faults),434.00
+AUDI,A5,Shock Absorber,432.77
+AUDI,RS5,Alternator,432.15
+AUDI,Q3,Brakes (Various Faults),431.22
+AUDI,A8,Sensors,426.48
+AUDI,S3,Air Con (Various Faults),425.40
+AUDI,A5,Steering Pump,424.39
+AUDI,A3,Fuel System,424.32
+AUDI,A4,Radiator,416.80
+AUDI,A3,Wheel Bearing,411.50
+AUDI,S3,Cooling,411.46
+AUDI,A5,E.G.R Valve,408.26
+AUDI,Q5,E.G.R Valve,407.14
+AUDI,A3,Throttle Body,406.98
+AUDI,A5,Thermostat,406.61
+AUDI,A6,Fuel System,406.02
+AUDI,Q7,E.G.R Cooler,404.00
+AUDI,A3,Engine (Various Faults),402.30
+AUDI,A4,Gearbox (Various Faults),400.00
+AUDI,A6,Sensors,400.00
+AUDI,A1,Tensioner,400.00
+AUDI,RS6,Electrical ,397.08
+AUDI,A1,Alternator,396.40
+AUDI,R8,Other,394.62
+AUDI,S3,Cooling,394.49
+AUDI,A3,Fuel Lift Pump,391.46
+AUDI,A6,Vacuum Pump,388.80
+AUDI,A4,Water Pump,386.58
+AUDI,A3,Fuel Injectors,384.00
+AUDI,A3,Central Door Locking,382.16
+AUDI,A4,Electrical ,382.13
+AUDI,Q5,Engine (Various Faults),379.47
+AUDI,A3,Cooling,375.10
+AUDI,TT,Clutch (Various Faults),374.80
+AUDI,S3,Thermostat,372.63
+AUDI,Q2,,369.32
+AUDI,A3,Water Pump,369.12
+AUDI,RS4,Suspension (Various Faults),365.20
+AUDI,A3,Water Pump,362.77
+AUDI,A1,Air Bag System,362.23
+AUDI,S5,Wheel Bearing,361.56
+AUDI,Q7,Electrical ,359.84
+AUDI,A3,Gearbox (Various Faults),358.97
+AUDI,A6,Water Pump,358.60
+AUDI,A3,Fuel System,357.40
+AUDI,A8,Wiper Motor,356.45
+AUDI,TT,Window Regulator,356.42
+AUDI,A3,Alternator,355.72
+AUDI,A5,Shock Absorber,355.02
+AUDI,A5,Wiper Motor,354.50
+AUDI,ALLROAD,Wheel Bearing,354.01
+AUDI,A4,Starter Motor,353.80
+AUDI,Q7,Heater Fan Motor,353.73
+AUDI,A6,Electrical,350.28
+AUDI,A3,Clutch (Various Faults),350.00
+AUDI,A1,E.G.R Valve,350.00
+AUDI,A3,Clutch (Various Faults),350.00
+AUDI,A5,Engine (Various Faults),350.00
+AUDI,TT,E.G.R Valve,349.98
+AUDI,A5,Engine (Various Faults),349.35
+AUDI,A5,Clutch (Various Faults),349.00
+AUDI,Q7,Electrical ,347.37
+AUDI,A3,Fuel Injectors,346.00
+AUDI,A5,Steering Pump,345.70
+AUDI,Q7,Fuel System,345.00
+AUDI,Q3,Throttle Body,344.24
+AUDI,Q5,Interior Trim,342.01
+AUDI,Q3,Ecu (Other),341.62
+AUDI,A6,Central Door Locking,338.74
+AUDI,Q7,Fuel Injectors,337.99
+AUDI,A5,Window Regulator,337.83
+AUDI,A1,Electrical ,336.44
+AUDI,RS5,Drive Shaft,335.82
+AUDI,A3,Alternator,335.35
+AUDI,A3,Alternator,334.50
+AUDI,A5,Fuel System,334.31
+AUDI,A4,Electrical ,333.60
+AUDI,A3,Hose/Pipe ,332.62
+AUDI,A5,Electrical ,332.61
+AUDI,A4,Water Pump,332.35
+AUDI,A4,Alternator,330.60
+AUDI,A4,Multimedia,329.90
+AUDI,TT,Window Motor,327.70
+AUDI,Q3,BATTERY (NORMAL),327.23
+AUDI,A3,Electrical ,326.99
+AUDI,A4,Alternator,326.99
+AUDI,S3,Engine (Various Faults),325.61
+AUDI,A6,Central Door Locking,325.14
+AUDI,A1,Fuel System,325.00
+AUDI,A4,Drive Shaft,325.00
+AUDI,A3,Air Con (Various Faults),324.96
+AUDI,A4,Air Con (Various Faults),324.05
+AUDI,A3,Radiator,323.99
+AUDI,RS4,Electrical ,322.50
+AUDI,RS6,Electrical ,322.25
+AUDI,Q3,Clutch (Various Faults),321.05
+AUDI,A6,Dpf Filter,317.60
+AUDI,A5,Engine (Various Faults),315.73
+AUDI,Q3,Electrical ,310.91
+AUDI,A3,Central Door Locking,310.11
+AUDI,A8,Suspension (Various Faults),309.58
+AUDI,A4,Alternator,307.36
+AUDI,RS4,Thermostat,306.18
+AUDI,Q3,Air Bag Squib,306.00
+AUDI,A3,Water Pump,303.38
+AUDI,A3,Spring (Suspension),303.02
+AUDI,A3,Wiper Motor,302.07
+AUDI,A1,Turbocharger,300.00
+AUDI,A3,Gearbox (Various Faults),300.00
+AUDI,A6,Turbocharger,300.00
+AUDI,A4,Engine (Various Faults),300.00
+AUDI,Q5,Flywheel ,300.00
+AUDI,Q7,E.G.R Valve,300.00
+AUDI,A3,Flywheel ,300.00
+AUDI,A3,E.G.R Cooler,300.00
+AUDI,TT,Gearbox (Various Faults),300.00
+AUDI,A3,Turbocharger,300.00
+AUDI,A4,Inlet Manifold,300.00
+AUDI,A4,Electrical ,300.00
+AUDI,Q7,,300.00
+AUDI,Q7,Fuel System,299.60
+AUDI,A1,Fuel System,299.48
+AUDI,S3,Heater Fan Motor,299.28
+AUDI,S5,Brakes (Various Faults),298.94
+AUDI,Q3,Water Pump,298.55
+AUDI,Q5,Headlamp/ Fog Lamp Unit,297.53
+AUDI,Q3,Throttle Body,297.38
+AUDI,A3,Shock Absorber,297.33
+AUDI,A4,Wheel Bearing,294.88
+AUDI,TT,Brakes,294.80
+AUDI,A3,Heater Fan Motor,294.11
+AUDI,S5,Ecu (Other),293.15
+AUDI,A3,Clutch (Various Faults),293.00
+AUDI,A8,Sensors,291.30
+AUDI,A6,Cv Joint,291.19
+AUDI,Q7,Central Door Locking,290.96
+AUDI,A3,Catalyst (Exhaust),290.80
+AUDI,A1,Wheel Bearing,289.39
+AUDI,A5,Timing Chain,289.00
+AUDI,A4,Alternator,288.79
+AUDI,A4,Water Pump,285.54
+AUDI,S3,Fuel System,285.26
+AUDI,A3,Water Pump,284.04
+AUDI,TT,Window Motor,283.82
+AUDI,S3,Thermostat Housing,283.11
+AUDI,A6,Engine (Various Faults),279.46
+AUDI,RS4,Electrical ,278.65
+AUDI,A5,Water Pump,278.32
+AUDI,A6,Heater/Glow Plugs,278.28
+AUDI,A5,Brakes (Various Faults),277.08
+AUDI,A6,Central Door Locking,272.14
+AUDI,A1,Fuel System,269.80
+AUDI,S3,Central Door Locking,269.72
+AUDI,A4,Wheel Bearing,269.68
+AUDI,A3,Central Door Locking,269.26
+AUDI,A4,Fuel System,269.00
+AUDI,TT,Brakes (Various Faults),267.44
+AUDI,A3,Alternator,267.00
+AUDI,A3,Alternator,267.00
+AUDI,A3,Heater Fan Motor,265.16
+AUDI,S3,Engine (Various Faults),263.32
+AUDI,A6,Shock Absorber,263.09
+AUDI,Q3,Water Pump,262.94
+AUDI,A3,Spring (Suspension),262.42
+AUDI,S3,Fuel Injectors,260.94
+AUDI,A3,Water Pump,260.31
+AUDI,A4,Spring (Suspension),260.26
+AUDI,RS4,Gearbox (Various Faults),259.44
+AUDI,S3,Spring (Suspension),259.18
+AUDI,A3,Fuel System (Various Faults),256.10
+AUDI,A5,Fuel Injectors,255.88
+AUDI,A4,Fuel System,255.64
+AUDI,A4,Fuel System,255.08
+AUDI,TT,Oxygen (Lambda) Sensor,253.16
+AUDI,A3,Fuel System,252.00
+AUDI,A3,Fuel System,252.00
+AUDI,TT,Electrical ,250.34
+AUDI,A3,Spring (Suspension),250.06
+AUDI,A3,Inlet Manifold,250.00
+AUDI,S3,Ignition Coil,250.00
+AUDI,A3,Gearbox (Various Faults),244.92
+AUDI,A4,Wheel Bearing,243.98
+AUDI,A1,Sensors,243.47
+AUDI,A6,Starter Motor,242.75
+AUDI,A4,Oil Cooler-,242.70
+AUDI,TT,Electrical ,242.16
+AUDI,A5,Dpf Filter,240.00
+AUDI,A1,,240.00
+AUDI,A3,CLUTCH (VARIOUS FAULTS),240.00
+AUDI,A5,Suspension (Various Faults),239.41
+AUDI,A1,Central Door Locking,239.17
+AUDI,A4,Electrical ,237.96
+AUDI,A5,Air Con (Various Faults),237.48
+AUDI,A1,Brakes (Various Faults),235.68
+AUDI,A5,Wheel Bearing,234.68
+AUDI,A7,Wheel Bearing,232.77
+AUDI,A6,Oxygen (Lambda) Sensor,231.96
+AUDI,A4,E.G.R Valve,231.76
+AUDI,A3,Brakes (Various Faults),230.49
+AUDI,A4,Heater Fan Motor,229.08
+AUDI,A3,Window Regulator,228.96
+AUDI,Q7,Electrical ,226.50
+AUDI,A3,Fuel System,226.00
+AUDI,TT,Clutch (Various Faults),225.97
+AUDI,Q3,Wheel Bearing,223.07
+AUDI,A4,Instrument Cluster / Clocks,222.80
+AUDI,A3,Thermostat,222.72
+AUDI,TT,Spring (Suspension),222.53
+AUDI,TT,Electrical ,222.00
+AUDI,Q3,Water Pump,221.86
+AUDI,A3,Wiper Motor,221.65
+AUDI,A3,Heater Fan Motor,221.30
+AUDI,A6,Abs (Various Faults),221.00
+AUDI,A4,Brakes (Various Faults),220.77
+AUDI,TT,Electrical ,217.88
+AUDI,A3,Wheel Bearing,216.51
+AUDI,TT,Oxygen (Lambda) Sensor,213.64
+AUDI,A3,Wiper Motor,211.32
+AUDI,Q7,Heater Fan Motor,210.49
+AUDI,Q3,Clutch (Various Faults),208.50
+AUDI,A4,,207.86
+AUDI,A4,Water Pump,207.80
+AUDI,A8,Abs (Various Faults),207.65
+AUDI,Q3,Throttle Body,204.90
+AUDI,A3,Central Door Locking,204.64
+AUDI,A3,Wiper Motor,204.64
+AUDI,A4,Wiper Motor,204.61
+AUDI,A6,Multimedia,204.38
+AUDI,Q3,Throttle Body,204.00
+AUDI,A7,Water Pump,202.89
+AUDI,Q5,Air Con (Various Faults),202.81
+AUDI,A3,Water Pump,202.00
+AUDI,A3,Heater Matrix,202.00
+AUDI,A3,Oxygen (Lambda) Sensor,201.81
+AUDI,A6,Wiper Motor,201.26
+AUDI,A1,Suspension (Various Faults),200.98
+AUDI,A1,Wheel Bearing,200.84
+AUDI,A4,Drive Shaft,200.00
+AUDI,S5,Air Con (Various Faults),200.00
+AUDI,A3,E.G.R Valve,200.00
+AUDI,A3,Turbocharger,200.00
+AUDI,A4,Inlet Manifold,200.00
+AUDI,A3,Flywheel ,200.00
+AUDI,A6,Wheel Bearing,199.99
+AUDI,A6,Electrical ,197.14
+AUDI,A3,Wheel Bearing,196.79
+AUDI,A6,Wheel Bearing,196.20
+AUDI,TT,Suspension (Various Faults),196.00
+AUDI,A4,Electrical ,195.49
+AUDI,A4,Other,194.54
+AUDI,A3,Radiator,192.36
+AUDI,A4,Central Door Locking,191.46
+AUDI,A8,Wheel Bearing,190.66
+AUDI,A1,,190.36
+AUDI,A4,Electrical,190.14
+AUDI,Q3,Fuel System (Various Faults),190.07
+AUDI,S3,Engine (Various Faults),190.00
+AUDI,A3,Radiator,189.42
+AUDI,A5,Window Regulator,187.32
+AUDI,Q7,Water Pump,185.76
+AUDI,A6,Electrical ,185.75
+AUDI,A5,Sensors,184.80
+AUDI,A3,Wheel Bearing,184.56
+AUDI,Q3,Suspension (Various Faults),184.36
+AUDI,A1,Wiper Motor,184.32
+AUDI,Q5,Central Door Locking,183.86
+AUDI,S3,Spring (Suspension),183.60
+AUDI,A3,,183.08
+AUDI,S6,Ignition Coil,182.72
+AUDI,A5,Instrument Cluster / Clocks,180.00
+AUDI,A6 QUATTRO,Suspension (Various Faults),179.77
+AUDI,A6,Headlamp Motor,179.68
+AUDI,A3,Wheel Bearing,179.00
+AUDI,ALLROAD,Inlet Manifold,178.35
+AUDI,A4,Spring (Suspension),177.59
+AUDI,S3,Suspension (Various Faults),176.86
+AUDI,A4,Wheel Bearing,175.56
+AUDI,A3,Drive Shaft,175.50
+AUDI,A5,Window Motor,175.34
+AUDI,A1,Suspension (Various Faults),175.12
+AUDI,A3,Water Pump,174.89
+AUDI,A4,Ecu (Other),174.59
+AUDI,A4,Brakes,174.00
+AUDI,TT,Tensioner,173.06
+AUDI,A3,Electrical ,172.65
+AUDI,A5,Window Regulator,171.87
+AUDI,A7,Electrical ,171.60
+AUDI,A5,Engine (Various Faults),170.68
+AUDI,Q3,Electrical ,170.16
+AUDI,S4,Air Con (Various Faults),169.52
+AUDI,A3,Wheel Bearing,169.17
+AUDI,A5,Central Door Locking,168.60
+AUDI,A6,Cv Joint,168.35
+AUDI,A6,Electrical ,168.28
+AUDI,A1,Engine (Various Faults),168.00
+AUDI,A4,Electrical ,168.00
+AUDI,A6,Heater/Glow Plugs,167.63
+AUDI,A4,Spring (Suspension),167.60
+AUDI,A1,Prop Shaft,167.30
+AUDI,A5,Thermostat,166.35
+AUDI,A3,Hose/Pipes ,165.81
+AUDI,A5 QUATTRO,Air Con (Various Faults),164.88
+AUDI,A5,Brakes (Various Faults),164.60
+AUDI,A1,Spring (Suspension),163.98
+AUDI,A5,Electrical ,163.60
+AUDI,A4,Sensors,163.19
+AUDI,A3,Window Motor,161.59
+AUDI,A5,Brakes (Various Faults),161.28
+AUDI,TT,Water Pump,161.20
+AUDI,A1,Sensors,157.94
+AUDI,TT,Shock Absorber,157.86
+AUDI,Q5,Wheel Bearing,157.08
+AUDI,R8,Central Door Locking,153.90
+AUDI,A4,Wiper Motor,153.77
+AUDI,A3,Heater/Glow Plugs,152.50
+AUDI,A4,Electrical ,152.17
+AUDI,S3,Sensors,151.72
+AUDI,S3,Engine (Various Faults),151.24
+AUDI,TT,Spring (Suspension),150.48
+AUDI,A3,Washer Pump,150.20
+AUDI,A1,Fuel System,150.00
+AUDI,A6,Cv Joint,150.00
+AUDI,S3,Spring (Suspension),149.98
+AUDI,A3,Engine (Various Faults),149.86
+AUDI,A3,Wiper Motor,148.47
+AUDI,A3,Sensors,147.26
+AUDI,A3,Water Pump,147.00
+AUDI,A5,,146.96
+AUDI,A5,,146.96
+AUDI,A1,Spring (Suspension),146.39
+AUDI,A6,Sensors,146.30
+AUDI,A3,Electrical ,145.16
+AUDI,A3,Clutch (Various Faults),144.90
+AUDI,S4,Thermostat,144.14
+AUDI,A3,Wheel Bearing,143.48
+AUDI,A3,Wiper Motor,142.21
+AUDI,A4,,141.96
+AUDI,A1,Electrical ,141.17
+AUDI,A3,Shock Absorber,140.40
+AUDI,A3,Ignition Coil,140.34
+AUDI,A3,Wheel Bearing,139.69
+AUDI,TT,Wheel Bearing,139.00
+AUDI,TT,Wheel Bearing,137.94
+AUDI,TT,Air Flow Meter,136.79
+AUDI,A5,Heater Fan Motor,136.68
+AUDI,A3,Brakes (Various Faults),135.79
+AUDI,A3,Indicator Stalk Switch,135.55
+AUDI,A3,Turbocharger,135.30
+AUDI,S3,Thermostat Housing,135.18
+AUDI,Q5,Central Door Locking,133.67
+AUDI,A3,Water Pump,133.20
+AUDI,RS5,Electrical ,133.12
+AUDI,A6,Sensors,132.26
+AUDI,A4,Spring (Suspension),130.81
+AUDI,A3,Electrical ,130.58
+AUDI,Q5,Electrical ,130.00
+AUDI,A3,Indicator Stalk Switch,127.52
+AUDI,TT,Window Regulator,126.00
+AUDI,A1,Alternator,125.00
+AUDI,Q3,Brakes,125.00
+AUDI,Q3,BRAKES,125.00
+AUDI,ALLROAD,Wheel Bearing,124.00
+AUDI,A1,Spring (Suspension),121.42
+AUDI,A3,Wheel Bearing,121.29
+AUDI,A4,Suspension (Various Faults),120.79
+AUDI,Q5,Cv Joint,120.10
+AUDI,A4,Heater Matrix,119.49
+AUDI,A3,Spring (Suspension),117.48
+AUDI,A3,Suspension (Various Faults),116.90
+AUDI,A6,Central Door Locking,116.00
+AUDI,TT,Electrical ,114.74
+AUDI,TT,Thermostat,114.71
+AUDI,A3,Suspension (Various Faults),114.08
+AUDI,TT,Cv Joint,113.20
+AUDI,A3,Spring (Suspension),111.63
+AUDI,A3,Water Pump,111.46
+AUDI,A5,Electrical ,111.31
+AUDI,Q7,Abs (Various Faults),110.51
+AUDI,A1,Spring (Suspension),109.49
+AUDI,A3,Suspension (Various Faults),107.00
+AUDI,A3,Ignition Coil,106.46
+AUDI,A3,Wiring Loom,104.40
+AUDI,A1,Suspension (Various Faults),104.00
+AUDI,A1,Heater Resistor,101.52
+AUDI,TT,Brakes (Various Faults),100.00
+AUDI,A4,Wheel Bearing,100.00
+AUDI,TT,Suspension (Various Faults),100.00
+AUDI,A5,Fuel System,100.00
+AUDI,A6,Wheel Bearing,100.00
+AUDI,A3,Dpf Filter,100.00
+AUDI,A5,Roof Seals,100.00
+AUDI,A5,Ignition Coil,98.40
+AUDI,A3,Air Flow Meter,97.88
+AUDI,TT,Temperature Sender,96.11
+AUDI,A4,Camshaft Sensor,91.56
+AUDI,A3,,91.51
+AUDI,TT,Spring (Suspension),91.20
+AUDI,A1,Electrical ,89.51
+AUDI,A6,Spring (Suspension),89.20
+AUDI,A7,Oil Cooler-,86.00
+AUDI,A1,,85.68
+AUDI,A3,,85.68
+AUDI,A1,,85.68
+AUDI,A3,,85.68
+AUDI,A3,,85.68
+AUDI,A5,,85.68
+AUDI,A3,,85.68
+AUDI,A3,,85.68
+AUDI,A3,,85.68
+AUDI,A3,,85.68
+AUDI,A4,,85.68
+AUDI,TT,Suspension (Various Faults),85.00
+AUDI,S4,Gearbox (Various Faults),84.00
+AUDI,RS4,Engine (Various Faults),84.00
+AUDI,A3,Engine (Various Faults),84.00
+AUDI,S3,Water Pump,84.00
+AUDI,A7,Gearbox (Various Faults),84.00
+AUDI,A6,Engine (Various Faults),84.00
+AUDI,TT (4WD),Gearbox (Various Faults),84.00
+AUDI,S3,Gearbox (Various Faults),84.00
+AUDI,A4,Gearbox (Various Faults),84.00
+AUDI,A4,Turbocharger,84.00
+AUDI,S6,Electrical,84.00
+AUDI,A5 QUATTRO,Gearbox (Various Faults),84.00
+AUDI,A3,Clutch (Various Faults),84.00
+AUDI,Q7,Fuel System,84.00
+AUDI,A7,Engine (Various Faults),84.00
+AUDI,RS3,Brakes (Various Faults),84.00
+AUDI,S5,Water Pump,84.00
+AUDI,RS3,Oil Cooler-,84.00
+AUDI,A7,Clutch (Various Faults),84.00
+AUDI,TT (4WD),Hose/Pipes,84.00
+AUDI,A8,Gearbox (Various Faults),84.00
+AUDI,S7,Turbocharger,84.00
+AUDI,A3,Clutch (Various Faults),84.00
+AUDI,A3,Clutch (Various Faults),84.00
+AUDI,TT,Clutch (Various Faults),84.00
+AUDI,A5,Steering Rack,84.00
+AUDI,A4,Gearbox (Various Faults),84.00
+AUDI,A6,Engine (Various Faults),84.00
+AUDI,A7,Engine (Various Faults),84.00
+AUDI,A5,Engine (Various Faults),84.00
+AUDI,R8,Engine Oil Pump,84.00
+AUDI,A5,Engine (Various Faults),84.00
+AUDI,A6,Steering Rack,84.00
+AUDI,S4 QUATTRO,Gearbox (Various Faults),84.00
+AUDI,A1,Engine (Various Faults),84.00
+AUDI,A3,Gearbox (Various Faults),84.00
+AUDI,TT,Engine (Various Faults),84.00
+AUDI,Q7,Steering Pump,84.00
+AUDI,Q7,Rear Main Oil Seal,84.00
+AUDI,A3,Engine (Various Faults),84.00
+AUDI,A3,Gearbox (Various Faults),84.00
+AUDI,A7,Fuel Injectors,84.00
+AUDI,RS5,Differential,84.00
+AUDI,A1,Turbocharger,84.00
+AUDI,A6,Engine (Various Faults),84.00
+AUDI,A5,Engine (Various Faults),84.00
+AUDI,A6,Engine (Various Faults),84.00
+AUDI,A5,Engine (Various Faults),84.00
+AUDI,A3,Gearbox (Various Faults),84.00
+AUDI,A4,Fuel System,84.00
+AUDI,A1,Spring (Suspension),81.70
+AUDI,A6,Mirror Assembly,81.06
+AUDI,Q3,Heater/Glow Plugs,80.56
+AUDI,Q5,,80.24
+AUDI,A1,Ignition Coil,79.76
+AUDI,A1,Central Door Locking,77.51
+AUDI,S3,Spring (Suspension),76.68
+AUDI,S3,Multimedia,75.06
+AUDI,A5,Electrical ,75.00
+AUDI,A4,Coolant Tank,75.00
+AUDI,Q5,Wheel Bearing,74.64
+AUDI,A3,Ignition Coil,71.20
+AUDI,A6,Other,68.08
+AUDI,A8,Electrical,63.52
+AUDI,A6,Engine (Various Faults),60.00
+AUDI,S7,Fuel System,55.95
+AUDI,TT,Ignition Coil,55.62
+AUDI,TT,Ignition Coil,55.00
+AUDI,Q3,Electrical ,54.18
+AUDI,A1,Fuel System,50.00
+AUDI,A1,Heater/Glow Plugs,49.56
+AUDI,A3,Electrical ,47.62
+AUDI,A1,Suspension (Various Faults),44.45
+AUDI,A3,Ignition Coil,42.41
+AUDI,A1,Fuel System,28.57
