@@ -1,0 +1,184 @@
+,mean_price,count
+engine (various faults),1482.1959210526315,608
+electrical,367.96471304347824,575
+gearbox (various faults),1202.8566085271318,516
+clutch (various faults),457.0676777251185,422
+fuel system,399.6508630952381,336
+alternator,331.0162939297125,313
+water pump,270.0875496688742,302
+air con (various faults),424.0629333333334,300
+suspension (various faults),360.4295286195286,297
+ignition coil,161.25976284584982,253
+turbocharger,662.5695815899581,239
+spring (suspension),186.773679245283,212
+sensors,241.52770731707318,205
+fuel injectors,496.54434146341464,205
+e.g.r valve,425.6415343915344,189
+wheel bearing,205.41935483870967,186
+starter motor,250.95797814207648,183
+brakes (various faults),319.89869281045753,153
+thermostat,261.74181102362206,127
+central door locking,265.4627192982456,114
+abs (various faults),344.48669724770645,109
+thermostat housing,221.62047169811322,106
+heater/glow plugs,190.8378640776699,103
+steering rack,559.4330107526881,93
+drive shaft,350.6315909090909,88
+cylinder head gasket,841.9092045454545,88
+ecu (other),654.5486206896552,87
+oxygen (lambda) sensor,282.78088607594935,79
+shock absorber,351.56910256410254,78
+radiator,278.03605263157897,76
+flywheel,695.7372972972972,74
+heater fan motor,327.7722972972973,74
+wiper motor,276.81849315068496,73
+steering pump,425.22228571428576,70
+oil leaks,809.1391666666666,60
+air flow meter,269.74258620689653,58
+dpf filter,665.751914893617,47
+multimedia,862.854,45
+window regulator,310.84642857142853,42
+window motor,264.50275,40
+differential,1168.5564864864866,37
+heater matrix,348.5435135135135,37
+fuel system (various faults),353.1820588235294,34
+throttle body,464.8078125,32
+oil cooler-,402.821875,32
+catalyst (exhaust),573.72375,32
+timing chain,518.1358064516129,31
+steering column,432.42967741935485,31
+brakes,386.888,30
+fuel injection pump,699.7175862068966,29
+nox sensor,477.28586206896557,29
+cooling,373.0588888888889,27
+engine oil pump,459.82814814814816,27
+steering pipe,243.57,26
+air bag system,577.5484615384615,26
+washer pump,162.8372,25
+fuel lift pump,450.3632,25
+ecu engine,1156.4117391304349,23
+inlet manifold,423.3345454545455,22
+vanos unit,517.1785714285714,21
+instrument cluster / clocks,369.6821052631579,19
+hose/pipe,474.3633333333334,18
+intercooler,353.5417647058824,17
+brake caliper/discs,219.41176470588235,17
+cv joint,223.13125,16
+e.g.r cooler,584.7993333333333,15
+suspension pump,630.5021428571429,14
+cooling fan motor,448.8761538461539,13
+heater resistor,160.8923076923077,13
+camshaft belt,2120.2308333333335,12
+camshaft sensor,389.72749999999996,12
+seat belt,231.23909090909092,11
+vacuum pump,865.7945454545454,11
+other,301.41545454545457,11
+indicator stalk switch,306.36,11
+headlamp/ fog lamp unit,430.30199999999996,10
+track rod ends,193.8711111111111,9
+temperature sender,177.30444444444444,9
+roof (motors / electrics),558.8077777777778,9
+heating system,738.1566666666666,9
+multimedia/ sat,693.86625,8
+wiring loom,412.50125,8
+belts/ aux belts,354.26875,8
+door handle (electronic),406.69624999999996,8
+prop shaft,629.7928571428572,7
+mirror assembly,513.4757142857143,7
+wiper linkage,275.78285714285715,7
+ad blue system (emissions),812.5699999999999,7
+prop shaft (centre bearing),431.53999999999996,5
+engine,5467.386,5
+ignition (various faults),189.19,5
+abs pump,499.91999999999996,5
+ball joint,135.012,5
+lambda sensor (emissions),287.83,4
+tensioner,244.5,4
+torque converter,722.455,4
+nox sensor(nitrogen oxide),735.0174999999999,4
+mot insurance,511.76,4
+temperature sensor,154.6,3
+fuel vapouriser,332.2866666666667,3
+drive train,393.93,3
+cable (brake),167.79333333333335,3
+suspension arm,161.33333333333334,3
+cable (other),334.4733333333333,3
+camshaft tensioner,3155.903333333333,3
+window glass,224.29999999999998,3
+hose/pipes,129.93666666666667,3
+charging unit (ev),2170.0933333333332,3
+abs accumulator,1327.6833333333334,3
+headlamp motor,278.92,3
+brakes discs,208.28,2
+steering,698.255,2
+transfer box,1637.685,2
+throttle pedal,207.8,2
+throttle potentiometer,236.74,2
+timing belt,289.26,2
+battery (normal),450.935,2
+crankshaft pulley,494.53999999999996,2
+trims (interior and exterior),1726.6,2
+turbocharger actuator (wastegate),339.17999999999995,2
+amplifier,1503.24,2
+alternator pulley,345.57500000000005,2
+air bag squib,387.81,2
+window switch,123.99,2
+spark plugs,122.785,2
+aa recovery,85.68,2
+interior trim,515.505,2
+handbrake lever,230.46,2
+oil pump,3851.4,2
+dpf regeneration,325.0,2
+parking sensor,274.01,2
+mechatronic unit,2385.6800000000003,2
+locks,217.14,2
+exhausts(pipes and silencers),474.14,2
+valve block/body,314.72,1
+trim,789.02,1
+mountings,200.0,1
+tyre,184.4,1
+tyres,114.5,1
+universal joint,157.39,1
+anti roll bar link,64.11,1
+valve block / body,687.82,1
+cruise control (da),288.41,1
+washer jets,77.56,1
+gear selector,708.8,1
+water ingress,25.0,1
+gearbox,11100.0,1
+gearbox (transfer),5504.41,1
+wheel cylinder,60.88,1
+wheel sensor,244.0,1
+aalternator,559.2,1
+ad blue system,1516.8,1
+gearbox actuator,718.13,1
+haldex pump,250.0,1
+head unit,1204.03,1
+fflywheel,659.27,1
+oil filter housing,567.6,1
+exhaust manifold,150.56,1
+sensorseatbelt (electrics),203.86,1
+seat catch,155.4,1
+cylinder head,437.56,1
+coolant tank,75.0,1
+seat,84.0,1
+headlamp/fog lamp unit,6960.22,1
+steering alignment,237.57,1
+roof seals,100.0,1
+camshaft dephaser pulley,326.28,1
+camshaft,193.1,1
+cameras (da),590.08,1
+suspension,85.6,1
+diagnostic,50.0,1
+road wheels,1871.12,1
+release bearing,469.75,1
+switch,120.91,1
+tailgate handle,204.0,1
+recovery,210.0,1
+rear main oil seal,84.0,1
+pressure sensor,118.0,1
+brake servo,471.32,1
+bonnet latch,108.7,1
+throttle actuator,1001.5,1
+body control module,493.25,1
+heated seat mat,304.68,1
