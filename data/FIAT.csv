@@ -1,0 +1,207 @@
+make,model,part,total_paid
+FIAT,500,Engine (Various Faults),6668.21
+FIAT,500,Gearbox (Various Faults),5036.03
+FIAT,PUNTO,Gearbox (Various Faults),4717.54
+FIAT,DUCATO,Vacuum Pump,4682.27
+FIAT,500,Cylinder Head Gasket,4451.26
+FIAT,500,Gearbox (Various Faults),3897.80
+FIAT,DOBLO,Engine (Various Faults),3739.20
+FIAT,GRANDE PUNTO,Gearbox (Various Faults),3616.70
+FIAT,BRAVO,Gearbox (Various Faults),3159.90
+FIAT,500,Heating System,3102.98
+FIAT,500,Gearbox (Various Faults),1853.47
+FIAT,500,Gearbox (Various Faults),1805.14
+FIAT,500,Ecu Engine,1542.75
+FIAT,500,Ecu Engine,1400.61
+FIAT,PUNTO,Gearbox (Various Faults),1143.60
+FIAT,500,Gearbox (Various Faults),1084.00
+FIAT,500,Gearbox (Various Faults),975.48
+FIAT,500,Gearbox (Various Faults),954.00
+FIAT,GRANDE PUNTO,Steering Column,920.83
+FIAT,500,Gearbox (Various Faults),900.00
+FIAT,500,Cylinder Head Gasket,894.60
+FIAT,500,Gearbox (Various Faults),855.50
+FIAT,500,Gearbox (Various Faults),848.20
+FIAT,DOBLO,Turbocharger,777.49
+FIAT,500,Gearbox (Various Faults),767.06
+FIAT,500,Gearbox (Various Faults),724.00
+FIAT,PUNTO,Gearbox (Various Faults),700.00
+FIAT,500,Clutch (Various Faults),689.59
+FIAT,DOBLO,Gearbox (Various Faults),672.41
+FIAT,500,Clutch (Various Faults),650.00
+FIAT,PUNTO,Steering Column,645.00
+FIAT,500,Ecu (Other),637.86
+FIAT,500,Instrument Cluster / Clocks,600.60
+FIAT,500,Gearbox (Various Faults),598.25
+FIAT,500,Clutch (Various Faults),595.37
+FIAT,500,Gearbox (Various Faults),584.00
+FIAT,500,Engine (Various Faults),581.59
+FIAT,500,Clutch (Various Faults),580.24
+FIAT,PUNTO,Electrical,579.02
+FIAT,500,Gearbox (Various Faults),577.00
+FIAT,500,Clutch (Various Faults),576.34
+FIAT,500,Ecu (Other),571.80
+FIAT,500,Air Con (Various Faults),564.25
+FIAT,500,Electrical ,559.29
+FIAT,500,Clutch (Various Faults),559.20
+FIAT,PUNTO,Steering Column,555.00
+FIAT,500,Clutch (Various Faults),514.80
+FIAT,500,Electrical ,512.26
+FIAT,500,Gearbox (Various Faults),510.00
+FIAT,PUNTO,Clutch (Various Faults),500.00
+FIAT,PUNTO,Gearbox (Various Faults),500.00
+FIAT,PUNTO,Steering Pump,488.50
+FIAT,500,Electrical,470.60
+FIAT,500,Clutch (Various Faults),466.71
+FIAT,500L,Clutch (Various Faults),466.61
+FIAT,BRAVO,Gearbox (Various Faults),466.10
+FIAT,500,Ecu (Other),464.69
+FIAT,PUNTO,Gearbox (Various Faults),449.20
+FIAT,500,Engine (Various Faults),448.94
+FIAT,500,Clutch (Various Faults),427.93
+FIAT,GRANDE PUNTO,Ignition Coil,424.75
+FIAT,500,Hose/Pipe ,421.60
+FIAT,500,Suspension (Various Faults),420.01
+FIAT,500,Shock Absorber,409.88
+FIAT,500,Clutch (Various Faults),391.00
+FIAT,PUNTO,Ecu (Other),376.41
+FIAT,500L,Dpf Filter,369.98
+FIAT,BRAVO,Clutch (Various Faults),368.88
+FIAT,500,,368.39
+FIAT,PANDA,Steering Pump,361.50
+FIAT,500,Starter Motor,359.02
+FIAT,500,Sensors,358.40
+FIAT,500,Sensors,355.48
+FIAT,GRANDE PUNTO,Gearbox (Various Faults),350.00
+FIAT,500,Gearbox (Various Faults),350.00
+FIAT,PANDA,Steering Column,340.00
+FIAT,PANDA,Central Door Locking,314.46
+FIAT,500,Cable (Other),311.02
+FIAT,500,SHOCK ABSORBER,309.95
+FIAT,500,Clutch (Various Faults),309.62
+FIAT,QUBO,Sensors,309.18
+FIAT,500,Electrical ,294.60
+FIAT,500,Clutch (Various Faults),292.78
+FIAT,DUCATO,Air Flow Meter,289.75
+FIAT,PANDA,Water Pump,288.71
+FIAT,GRANDE PUNTO,Brakes (Various Faults),287.87
+FIAT,500,,285.12
+FIAT,SEDICI,Alternator,283.74
+FIAT,FIAT AUTO TRAIL,Electrical,267.40
+FIAT,PUNTO,Alternator,265.98
+FIAT,500,Clutch (Various Faults),264.85
+FIAT,500,Instrument Cluster / Clocks,264.60
+FIAT,500,Alternator,262.24
+FIAT,PUNTO,Electrical ,262.00
+FIAT,GRANDE PUNTO,Clutch (Various Faults),258.66
+FIAT,GRANDE PUNTO,Wiring Loom,256.90
+FIAT,500,Clutch (Various Faults),256.36
+FIAT,500,Engine (Various Faults),250.00
+FIAT,500,Clutch (Various Faults),250.00
+FIAT,500,Clutch (Various Faults),247.30
+FIAT,500,Alternator,244.85
+FIAT,PUNTO,Wheel Sensor,244.00
+FIAT,GRANDE PUNTO,Alternator,244.00
+FIAT,500,Instrument Cluster / Clocks,242.00
+FIAT,500,Clutch (Various Faults),241.34
+FIAT,500,Suspension (Various Faults),235.99
+FIAT,500,Water Pump,232.80
+FIAT,GRANDE PUNTO,Alternator,232.08
+FIAT,DOBLO,Starter Motor,227.63
+FIAT,500,Steering Pump,225.00
+FIAT,DOBLO,Heating System,211.03
+FIAT,PUNTO,Radiator,210.55
+FIAT,DOBLO,Starter Motor,207.30
+FIAT,500,Fuel Lift Pump,206.67
+FIAT,PANDA,Gearbox (Various Faults),205.00
+FIAT,500,Gearbox (Various Faults),204.00
+FIAT,GRANDE PUNTO,Cylinder Head Gasket,200.23
+FIAT,500,Suspension (Various Faults),200.00
+FIAT,500,Clutch (Various Faults),200.00
+FIAT,500,Wiring Loom,200.00
+FIAT,500,Engine (Various Faults),200.00
+FIAT,500,Starter Motor,199.50
+FIAT,500,Radiator,198.20
+FIAT,500,Alternator,197.90
+FIAT,GRANDE PUNTO,Starter Motor,196.98
+FIAT,GRANDE PUNTO,Sensors,192.42
+FIAT,500,Clutch (Various Faults),188.39
+FIAT,500,Alternator,185.03
+FIAT,PUNTO,Alternator,180.73
+FIAT,500,Heater Matrix,180.29
+FIAT,PUNTO,Alternator,175.51
+FIAT,500,Thermostat,170.70
+FIAT,500,Clutch (Various Faults),170.00
+FIAT,500,Gearbox (Various Faults),168.00
+FIAT,500,Electrical,167.64
+FIAT,500,Starter Motor,158.99
+FIAT,GRANDE PUNTO,Window Motor,156.55
+FIAT,500,Shock Absorber,152.53
+FIAT,500,Steering Column,150.00
+FIAT,PANDA,Gearbox (Various Faults),150.00
+FIAT,500,Ecu (Other),148.20
+FIAT,500,Door Handle (Electronic),145.45
+FIAT,PANDA,Air Flow Meter,143.62
+FIAT,500,Clutch (Various Faults),143.58
+FIAT,500,Oil Cooler-,142.02
+FIAT,500,Brakes (Various Faults),140.13
+FIAT,500,Thermostat Housing,139.89
+FIAT,DOBLO,Air Flow Meter,139.60
+FIAT,GRANDE PUNTO,Alternator,137.40
+FIAT,500,Starter Motor,136.99
+FIAT,BRAVO,Clutch (Various Faults),136.07
+FIAT,500,Ignition Coil,135.90
+FIAT,500,Ignition Coil,134.34
+FIAT,500,Thermostat,133.96
+FIAT,DOBLO,Steering Pipe,131.52
+FIAT,PUNTO,Shock Absorber,131.00
+FIAT,500,,130.30
+FIAT,500,Turbocharger,129.54
+FIAT,500,Thermostat Housing,129.50
+FIAT,PUNTO,Electrical ,128.00
+FIAT,500,Brakes (Various Faults),127.36
+FIAT,500X,,127.21
+FIAT,500,Water Pump,126.95
+FIAT,500,Ignition Coil,126.54
+FIAT,500,Water Pump,124.52
+FIAT,PANDA,Central Door Locking,115.44
+FIAT,500,Suspension (Various Faults),113.86
+FIAT,500,Temperature Sender,111.40
+FIAT,500,Electrical ,110.24
+FIAT,500,Thermostat Housing,105.88
+FIAT,500,Thermostat,105.73
+FIAT,500,Ignition Coil,100.56
+FIAT,500,Wheel Bearing,100.14
+FIAT,500,Oxygen (Lambda) Sensor,100.00
+FIAT,500,Clutch (Various Faults),99.60
+FIAT,500,Thermostat Housing,96.66
+FIAT,500X,Sensors,95.21
+FIAT,PUNTO,Electrical ,90.42
+FIAT,500,Thermostat Housing,89.22
+FIAT,PUNTO,Ignition Coil,88.61
+FIAT,500,Thermostat,87.23
+FIAT,DOBLO,,85.68
+FIAT,500,,85.68
+FIAT,500,,85.68
+FIAT,500,Gearbox (Various Faults),84.00
+FIAT,BRAVO,Cylinder Head Gasket,84.00
+FIAT,500,Cylinder Head Gasket,84.00
+FIAT,PUNTO,Engine (Various Faults),84.00
+FIAT,500,Clutch (Various Faults),84.00
+FIAT,PANDA,Engine (Various Faults),84.00
+FIAT,DOBLO,Engine (Various Faults),84.00
+FIAT,500L,Brake Caliper/Discs,83.80
+FIAT,500,Heating System,80.00
+FIAT,500,TURBOCHARGER,80.00
+FIAT,PUNTO,Spring (Suspension),78.00
+FIAT,PUNTO,Suspension (Various Faults),74.60
+FIAT,PANDA 4X4,Sensors,73.89
+FIAT,500,Brakes (Various Faults),73.00
+FIAT,PUNTO,Sensors,69.94
+FIAT,PANDA 4X4,Heater/Glow Plugs,68.98
+FIAT,500,Steering Pump,68.25
+FIAT,500,Thermostat Housing,63.28
+FIAT,500,Thermostat Housing,62.20
+FIAT,500L,Heater/Glow Plugs,48.20
+FIAT,PANDA 4X4,Heater/Glow Plugs,44.00
+FIAT,PUNTO,Abs (Various Faults),43.38
